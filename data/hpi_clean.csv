@@ -1,0 +1,1735 @@
+hpi_type,hpi_flavor,frequency,level,place_name,place_id,yr,period,index_nsa,index_sa
+traditional,purchase-only,quarterly,State,Alaska,AK,1991,4,102.44,102.62
+traditional,purchase-only,quarterly,State,Alaska,AK,1992,4,104.34,104.61
+traditional,purchase-only,quarterly,State,Alaska,AK,1993,4,110.55,110.94
+traditional,purchase-only,quarterly,State,Alaska,AK,1994,4,111.5,111.95
+traditional,purchase-only,quarterly,State,Alaska,AK,1995,4,117.73,118.24
+traditional,purchase-only,quarterly,State,Alaska,AK,1996,4,123.43,123.97
+traditional,purchase-only,quarterly,State,Alaska,AK,1997,4,125.84,126.42
+traditional,purchase-only,quarterly,State,Alaska,AK,1998,4,130.53,131.11
+traditional,purchase-only,quarterly,State,Alaska,AK,1999,4,132.32,132.96
+traditional,purchase-only,quarterly,State,Alaska,AK,2000,4,137.21,137.89
+traditional,purchase-only,quarterly,State,Alaska,AK,2001,4,148.96,149.67
+traditional,purchase-only,quarterly,State,Alaska,AK,2002,4,157.54,158.16
+traditional,purchase-only,quarterly,State,Alaska,AK,2003,4,170.95,171.55
+traditional,purchase-only,quarterly,State,Alaska,AK,2004,4,187.93,188.45
+traditional,purchase-only,quarterly,State,Alaska,AK,2005,4,207.44,207.9
+traditional,purchase-only,quarterly,State,Alaska,AK,2006,4,219.76,219.95
+traditional,purchase-only,quarterly,State,Alaska,AK,2007,4,223.04,223.08
+traditional,purchase-only,quarterly,State,Alaska,AK,2008,4,223.29,223.08
+traditional,purchase-only,quarterly,State,Alaska,AK,2009,4,215.89,215.67
+traditional,purchase-only,quarterly,State,Alaska,AK,2010,4,221.18,220.86
+traditional,purchase-only,quarterly,State,Alaska,AK,2011,4,223.3,223.07
+traditional,purchase-only,quarterly,State,Alaska,AK,2012,4,226.41,226.04
+traditional,purchase-only,quarterly,State,Alaska,AK,2013,4,231.99,231.65
+traditional,purchase-only,quarterly,State,Alaska,AK,2014,4,239.83,239.47
+traditional,purchase-only,quarterly,State,Alaska,AK,2015,4,245.07,245.02
+traditional,purchase-only,quarterly,State,Alaska,AK,2016,4,247.22,247.51
+traditional,purchase-only,quarterly,State,Alaska,AK,2017,4,249.48,250.13
+traditional,purchase-only,quarterly,State,Alaska,AK,2018,4,254.61,255.49
+traditional,purchase-only,quarterly,State,Alaska,AK,2019,4,263.95,265.08
+traditional,purchase-only,quarterly,State,Alaska,AK,2020,4,286.26,287.53
+traditional,purchase-only,quarterly,State,Alaska,AK,2021,4,316.39,317.83
+traditional,purchase-only,quarterly,State,Alaska,AK,2022,4,334.0,335.44
+traditional,purchase-only,quarterly,State,Alaska,AK,2023,4,357.51,359.13
+traditional,purchase-only,quarterly,State,Alaska,AK,2024,4,373.09,374.63
+traditional,purchase-only,quarterly,State,Alabama,AL,1991,4,103.42,102.88
+traditional,purchase-only,quarterly,State,Alabama,AL,1992,4,108.21,107.68
+traditional,purchase-only,quarterly,State,Alabama,AL,1993,4,113.08,112.6
+traditional,purchase-only,quarterly,State,Alabama,AL,1994,4,117.85,117.46
+traditional,purchase-only,quarterly,State,Alabama,AL,1995,4,121.9,121.6
+traditional,purchase-only,quarterly,State,Alabama,AL,1996,4,126.36,126.12
+traditional,purchase-only,quarterly,State,Alabama,AL,1997,4,129.51,129.31
+traditional,purchase-only,quarterly,State,Alabama,AL,1998,4,135.38,135.2
+traditional,purchase-only,quarterly,State,Alabama,AL,1999,4,139.61,139.42
+traditional,purchase-only,quarterly,State,Alabama,AL,2000,4,142.66,142.43
+traditional,purchase-only,quarterly,State,Alabama,AL,2001,4,147.37,147.14
+traditional,purchase-only,quarterly,State,Alabama,AL,2002,4,153.12,152.9
+traditional,purchase-only,quarterly,State,Alabama,AL,2003,4,158.9,158.72
+traditional,purchase-only,quarterly,State,Alabama,AL,2004,4,168.35,168.21
+traditional,purchase-only,quarterly,State,Alabama,AL,2005,4,182.57,182.55
+traditional,purchase-only,quarterly,State,Alabama,AL,2006,4,195.75,195.84
+traditional,purchase-only,quarterly,State,Alabama,AL,2007,4,200.03,200.25
+traditional,purchase-only,quarterly,State,Alabama,AL,2008,4,190.72,191.02
+traditional,purchase-only,quarterly,State,Alabama,AL,2009,4,191.43,191.89
+traditional,purchase-only,quarterly,State,Alabama,AL,2010,4,174.44,174.98
+traditional,purchase-only,quarterly,State,Alabama,AL,2011,4,170.43,171.05
+traditional,purchase-only,quarterly,State,Alabama,AL,2012,4,175.63,176.37
+traditional,purchase-only,quarterly,State,Alabama,AL,2013,4,179.89,180.71
+traditional,purchase-only,quarterly,State,Alabama,AL,2014,4,184.54,185.4
+traditional,purchase-only,quarterly,State,Alabama,AL,2015,4,188.94,189.8
+traditional,purchase-only,quarterly,State,Alabama,AL,2016,4,197.27,198.19
+traditional,purchase-only,quarterly,State,Alabama,AL,2017,4,206.91,207.83
+traditional,purchase-only,quarterly,State,Alabama,AL,2018,4,216.77,217.71
+traditional,purchase-only,quarterly,State,Alabama,AL,2019,4,231.2,232.19
+traditional,purchase-only,quarterly,State,Alabama,AL,2020,4,257.1,258.21
+traditional,purchase-only,quarterly,State,Alabama,AL,2021,4,301.31,302.54
+traditional,purchase-only,quarterly,State,Alabama,AL,2022,4,330.6,331.86
+traditional,purchase-only,quarterly,State,Alabama,AL,2023,4,345.25,346.49
+traditional,purchase-only,quarterly,State,Alabama,AL,2024,4,362.65,363.9
+traditional,purchase-only,quarterly,State,Arkansas,AR,1991,4,102.85,102.89
+traditional,purchase-only,quarterly,State,Arkansas,AR,1992,4,105.5,105.53
+traditional,purchase-only,quarterly,State,Arkansas,AR,1993,4,111.59,111.64
+traditional,purchase-only,quarterly,State,Arkansas,AR,1994,4,119.11,119.17
+traditional,purchase-only,quarterly,State,Arkansas,AR,1995,4,123.62,123.65
+traditional,purchase-only,quarterly,State,Arkansas,AR,1996,4,125.73,125.71
+traditional,purchase-only,quarterly,State,Arkansas,AR,1997,4,129.32,129.29
+traditional,purchase-only,quarterly,State,Arkansas,AR,1998,4,132.69,132.66
+traditional,purchase-only,quarterly,State,Arkansas,AR,1999,4,136.72,136.7
+traditional,purchase-only,quarterly,State,Arkansas,AR,2000,4,141.0,140.99
+traditional,purchase-only,quarterly,State,Arkansas,AR,2001,4,146.08,146.12
+traditional,purchase-only,quarterly,State,Arkansas,AR,2002,4,152.43,152.45
+traditional,purchase-only,quarterly,State,Arkansas,AR,2003,4,161.0,160.95
+traditional,purchase-only,quarterly,State,Arkansas,AR,2004,4,172.57,172.43
+traditional,purchase-only,quarterly,State,Arkansas,AR,2005,4,185.31,185.17
+traditional,purchase-only,quarterly,State,Arkansas,AR,2006,4,192.43,192.35
+traditional,purchase-only,quarterly,State,Arkansas,AR,2007,4,193.11,193.23
+traditional,purchase-only,quarterly,State,Arkansas,AR,2008,4,184.71,185.05
+traditional,purchase-only,quarterly,State,Arkansas,AR,2009,4,187.94,188.65
+traditional,purchase-only,quarterly,State,Arkansas,AR,2010,4,174.9,175.86
+traditional,purchase-only,quarterly,State,Arkansas,AR,2011,4,177.14,178.43
+traditional,purchase-only,quarterly,State,Arkansas,AR,2012,4,179.9,181.34
+traditional,purchase-only,quarterly,State,Arkansas,AR,2013,4,182.74,184.32
+traditional,purchase-only,quarterly,State,Arkansas,AR,2014,4,190.58,192.12
+traditional,purchase-only,quarterly,State,Arkansas,AR,2015,4,194.07,195.43
+traditional,purchase-only,quarterly,State,Arkansas,AR,2016,4,199.05,200.11
+traditional,purchase-only,quarterly,State,Arkansas,AR,2017,4,209.43,210.29
+traditional,purchase-only,quarterly,State,Arkansas,AR,2018,4,216.66,217.32
+traditional,purchase-only,quarterly,State,Arkansas,AR,2019,4,225.09,225.67
+traditional,purchase-only,quarterly,State,Arkansas,AR,2020,4,249.64,250.24
+traditional,purchase-only,quarterly,State,Arkansas,AR,2021,4,296.16,296.98
+traditional,purchase-only,quarterly,State,Arkansas,AR,2022,4,323.8,324.75
+traditional,purchase-only,quarterly,State,Arkansas,AR,2023,4,344.48,345.66
+traditional,purchase-only,quarterly,State,Arkansas,AR,2024,4,357.26,358.55
+traditional,purchase-only,quarterly,State,Arizona,AZ,1991,4,101.65,101.19
+traditional,purchase-only,quarterly,State,Arizona,AZ,1992,4,103.63,103.19
+traditional,purchase-only,quarterly,State,Arizona,AZ,1993,4,109.05,108.66
+traditional,purchase-only,quarterly,State,Arizona,AZ,1994,4,116.3,115.99
+traditional,purchase-only,quarterly,State,Arizona,AZ,1995,4,121.85,121.68
+traditional,purchase-only,quarterly,State,Arizona,AZ,1996,4,126.59,126.56
+traditional,purchase-only,quarterly,State,Arizona,AZ,1997,4,131.62,131.71
+traditional,purchase-only,quarterly,State,Arizona,AZ,1998,4,138.51,138.62
+traditional,purchase-only,quarterly,State,Arizona,AZ,1999,4,146.7,146.79
+traditional,purchase-only,quarterly,State,Arizona,AZ,2000,4,155.38,155.4
+traditional,purchase-only,quarterly,State,Arizona,AZ,2001,4,165.43,165.42
+traditional,purchase-only,quarterly,State,Arizona,AZ,2002,4,175.63,175.69
+traditional,purchase-only,quarterly,State,Arizona,AZ,2003,4,191.89,192.21
+traditional,purchase-only,quarterly,State,Arizona,AZ,2004,4,226.87,227.77
+traditional,purchase-only,quarterly,State,Arizona,AZ,2005,4,300.7,302.59
+traditional,purchase-only,quarterly,State,Arizona,AZ,2006,4,317.3,319.94
+traditional,purchase-only,quarterly,State,Arizona,AZ,2007,4,287.42,290.05
+traditional,purchase-only,quarterly,State,Arizona,AZ,2008,4,223.14,225.11
+traditional,purchase-only,quarterly,State,Arizona,AZ,2009,4,193.89,195.34
+traditional,purchase-only,quarterly,State,Arizona,AZ,2010,4,171.8,172.78
+traditional,purchase-only,quarterly,State,Arizona,AZ,2011,4,165.97,166.66
+traditional,purchase-only,quarterly,State,Arizona,AZ,2012,4,196.66,197.28
+traditional,purchase-only,quarterly,State,Arizona,AZ,2013,4,225.56,226.21
+traditional,purchase-only,quarterly,State,Arizona,AZ,2014,4,234.73,235.4
+traditional,purchase-only,quarterly,State,Arizona,AZ,2015,4,252.72,253.45
+traditional,purchase-only,quarterly,State,Arizona,AZ,2016,4,271.31,272.08
+traditional,purchase-only,quarterly,State,Arizona,AZ,2017,4,292.68,293.43
+traditional,purchase-only,quarterly,State,Arizona,AZ,2018,4,317.36,318.27
+traditional,purchase-only,quarterly,State,Arizona,AZ,2019,4,342.46,343.69
+traditional,purchase-only,quarterly,State,Arizona,AZ,2020,4,391.26,393.09
+traditional,purchase-only,quarterly,State,Arizona,AZ,2021,4,497.69,500.36
+traditional,purchase-only,quarterly,State,Arizona,AZ,2022,4,524.87,527.94
+traditional,purchase-only,quarterly,State,Arizona,AZ,2023,4,557.57,560.79
+traditional,purchase-only,quarterly,State,Arizona,AZ,2024,4,567.57,570.53
+traditional,purchase-only,quarterly,State,California,CA,1991,4,99.64,99.04
+traditional,purchase-only,quarterly,State,California,CA,1992,4,95.97,95.43
+traditional,purchase-only,quarterly,State,California,CA,1993,4,90.42,89.99
+traditional,purchase-only,quarterly,State,California,CA,1994,4,87.04,86.72
+traditional,purchase-only,quarterly,State,California,CA,1995,4,85.28,85.06
+traditional,purchase-only,quarterly,State,California,CA,1996,4,85.28,85.14
+traditional,purchase-only,quarterly,State,California,CA,1997,4,88.99,88.9
+traditional,purchase-only,quarterly,State,California,CA,1998,4,98.09,98.0
+traditional,purchase-only,quarterly,State,California,CA,1999,4,108.22,108.11
+traditional,purchase-only,quarterly,State,California,CA,2000,4,123.61,123.45
+traditional,purchase-only,quarterly,State,California,CA,2001,4,137.81,137.58
+traditional,purchase-only,quarterly,State,California,CA,2002,4,161.43,161.13
+traditional,purchase-only,quarterly,State,California,CA,2003,4,191.05,190.75
+traditional,purchase-only,quarterly,State,California,CA,2004,4,239.47,239.16
+traditional,purchase-only,quarterly,State,California,CA,2005,4,283.93,283.6
+traditional,purchase-only,quarterly,State,California,CA,2006,4,273.6,273.15
+traditional,purchase-only,quarterly,State,California,CA,2007,4,233.92,233.36
+traditional,purchase-only,quarterly,State,California,CA,2008,4,170.81,170.25
+traditional,purchase-only,quarterly,State,California,CA,2009,4,167.53,166.89
+traditional,purchase-only,quarterly,State,California,CA,2010,4,159.71,159.13
+traditional,purchase-only,quarterly,State,California,CA,2011,4,152.16,151.75
+traditional,purchase-only,quarterly,State,California,CA,2012,4,169.33,169.07
+traditional,purchase-only,quarterly,State,California,CA,2013,4,199.81,199.71
+traditional,purchase-only,quarterly,State,California,CA,2014,4,214.62,214.67
+traditional,purchase-only,quarterly,State,California,CA,2015,4,229.96,230.1
+traditional,purchase-only,quarterly,State,California,CA,2016,4,245.78,246.0
+traditional,purchase-only,quarterly,State,California,CA,2017,4,265.36,265.58
+traditional,purchase-only,quarterly,State,California,CA,2018,4,278.23,278.63
+traditional,purchase-only,quarterly,State,California,CA,2019,4,290.54,291.17
+traditional,purchase-only,quarterly,State,California,CA,2020,4,324.27,325.34
+traditional,purchase-only,quarterly,State,California,CA,2021,4,386.74,388.3
+traditional,purchase-only,quarterly,State,California,CA,2022,4,392.23,394.12
+traditional,purchase-only,quarterly,State,California,CA,2023,4,412.4,414.43
+traditional,purchase-only,quarterly,State,California,CA,2024,4,422.24,424.27
+traditional,purchase-only,quarterly,State,Colorado,CO,1991,4,103.25,103.09
+traditional,purchase-only,quarterly,State,Colorado,CO,1992,4,113.53,113.35
+traditional,purchase-only,quarterly,State,Colorado,CO,1993,4,128.03,127.8
+traditional,purchase-only,quarterly,State,Colorado,CO,1994,4,140.24,139.97
+traditional,purchase-only,quarterly,State,Colorado,CO,1995,4,147.72,147.42
+traditional,purchase-only,quarterly,State,Colorado,CO,1996,4,155.28,155.01
+traditional,purchase-only,quarterly,State,Colorado,CO,1997,4,162.52,162.3
+traditional,purchase-only,quarterly,State,Colorado,CO,1998,4,174.71,174.61
+traditional,purchase-only,quarterly,State,Colorado,CO,1999,4,193.48,193.47
+traditional,purchase-only,quarterly,State,Colorado,CO,2000,4,215.5,215.56
+traditional,purchase-only,quarterly,State,Colorado,CO,2001,4,228.44,228.49
+traditional,purchase-only,quarterly,State,Colorado,CO,2002,4,237.95,237.89
+traditional,purchase-only,quarterly,State,Colorado,CO,2003,4,242.43,242.16
+traditional,purchase-only,quarterly,State,Colorado,CO,2004,4,252.63,252.2
+traditional,purchase-only,quarterly,State,Colorado,CO,2005,4,267.87,267.45
+traditional,purchase-only,quarterly,State,Colorado,CO,2006,4,273.41,273.18
+traditional,purchase-only,quarterly,State,Colorado,CO,2007,4,267.34,267.26
+traditional,purchase-only,quarterly,State,Colorado,CO,2008,4,253.5,253.6
+traditional,purchase-only,quarterly,State,Colorado,CO,2009,4,259.02,259.28
+traditional,purchase-only,quarterly,State,Colorado,CO,2010,4,252.5,253.01
+traditional,purchase-only,quarterly,State,Colorado,CO,2011,4,246.62,247.35
+traditional,purchase-only,quarterly,State,Colorado,CO,2012,4,267.39,268.7
+traditional,purchase-only,quarterly,State,Colorado,CO,2013,4,289.09,291.09
+traditional,purchase-only,quarterly,State,Colorado,CO,2014,4,314.32,317.2
+traditional,purchase-only,quarterly,State,Colorado,CO,2015,4,346.64,350.18
+traditional,purchase-only,quarterly,State,Colorado,CO,2016,4,383.59,387.73
+traditional,purchase-only,quarterly,State,Colorado,CO,2017,4,418.08,422.39
+traditional,purchase-only,quarterly,State,Colorado,CO,2018,4,446.58,451.08
+traditional,purchase-only,quarterly,State,Colorado,CO,2019,4,474.04,478.56
+traditional,purchase-only,quarterly,State,Colorado,CO,2020,4,525.55,530.61
+traditional,purchase-only,quarterly,State,Colorado,CO,2021,4,621.17,627.04
+traditional,purchase-only,quarterly,State,Colorado,CO,2022,4,652.92,659.24
+traditional,purchase-only,quarterly,State,Colorado,CO,2023,4,673.82,680.18
+traditional,purchase-only,quarterly,State,Colorado,CO,2024,4,687.46,693.81
+traditional,purchase-only,quarterly,State,Connecticut,CT,1991,4,96.54,95.82
+traditional,purchase-only,quarterly,State,Connecticut,CT,1992,4,95.96,95.27
+traditional,purchase-only,quarterly,State,Connecticut,CT,1993,4,91.7,91.14
+traditional,purchase-only,quarterly,State,Connecticut,CT,1994,4,91.55,91.12
+traditional,purchase-only,quarterly,State,Connecticut,CT,1995,4,90.83,90.57
+traditional,purchase-only,quarterly,State,Connecticut,CT,1996,4,90.54,90.4
+traditional,purchase-only,quarterly,State,Connecticut,CT,1997,4,93.24,93.15
+traditional,purchase-only,quarterly,State,Connecticut,CT,1998,4,99.27,99.21
+traditional,purchase-only,quarterly,State,Connecticut,CT,1999,4,107.58,107.51
+traditional,purchase-only,quarterly,State,Connecticut,CT,2000,4,117.37,117.24
+traditional,purchase-only,quarterly,State,Connecticut,CT,2001,4,129.44,129.2
+traditional,purchase-only,quarterly,State,Connecticut,CT,2002,4,145.53,145.25
+traditional,purchase-only,quarterly,State,Connecticut,CT,2003,4,159.13,158.99
+traditional,purchase-only,quarterly,State,Connecticut,CT,2004,4,177.42,177.58
+traditional,purchase-only,quarterly,State,Connecticut,CT,2005,4,192.89,193.33
+traditional,purchase-only,quarterly,State,Connecticut,CT,2006,4,193.09,193.67
+traditional,purchase-only,quarterly,State,Connecticut,CT,2007,4,191.52,192.03
+traditional,purchase-only,quarterly,State,Connecticut,CT,2008,4,177.69,178.07
+traditional,purchase-only,quarterly,State,Connecticut,CT,2009,4,170.52,170.71
+traditional,purchase-only,quarterly,State,Connecticut,CT,2010,4,163.91,164.04
+traditional,purchase-only,quarterly,State,Connecticut,CT,2011,4,159.53,159.75
+traditional,purchase-only,quarterly,State,Connecticut,CT,2012,4,157.59,158.13
+traditional,purchase-only,quarterly,State,Connecticut,CT,2013,4,158.64,159.46
+traditional,purchase-only,quarterly,State,Connecticut,CT,2014,4,158.42,159.31
+traditional,purchase-only,quarterly,State,Connecticut,CT,2015,4,160.64,161.37
+traditional,purchase-only,quarterly,State,Connecticut,CT,2016,4,162.37,162.94
+traditional,purchase-only,quarterly,State,Connecticut,CT,2017,4,166.08,166.63
+traditional,purchase-only,quarterly,State,Connecticut,CT,2018,4,169.9,170.48
+traditional,purchase-only,quarterly,State,Connecticut,CT,2019,4,173.75,174.52
+traditional,purchase-only,quarterly,State,Connecticut,CT,2020,4,197.46,198.59
+traditional,purchase-only,quarterly,State,Connecticut,CT,2021,4,224.26,225.85
+traditional,purchase-only,quarterly,State,Connecticut,CT,2022,4,244.42,246.02
+traditional,purchase-only,quarterly,State,Connecticut,CT,2023,4,274.14,275.39
+traditional,purchase-only,quarterly,State,Connecticut,CT,2024,4,297.53,298.38
+traditional,purchase-only,quarterly,State,Delaware,DE,1991,4,100.99,100.37
+traditional,purchase-only,quarterly,State,Delaware,DE,1992,4,100.58,100.0
+traditional,purchase-only,quarterly,State,Delaware,DE,1993,4,98.46,97.98
+traditional,purchase-only,quarterly,State,Delaware,DE,1994,4,99.94,99.61
+traditional,purchase-only,quarterly,State,Delaware,DE,1995,4,99.33,99.17
+traditional,purchase-only,quarterly,State,Delaware,DE,1996,4,100.23,100.23
+traditional,purchase-only,quarterly,State,Delaware,DE,1997,4,100.99,101.05
+traditional,purchase-only,quarterly,State,Delaware,DE,1998,4,105.61,105.69
+traditional,purchase-only,quarterly,State,Delaware,DE,1999,4,112.66,112.7
+traditional,purchase-only,quarterly,State,Delaware,DE,2000,4,121.03,121.0
+traditional,purchase-only,quarterly,State,Delaware,DE,2001,4,131.36,131.23
+traditional,purchase-only,quarterly,State,Delaware,DE,2002,4,144.53,144.33
+traditional,purchase-only,quarterly,State,Delaware,DE,2003,4,159.78,159.5
+traditional,purchase-only,quarterly,State,Delaware,DE,2004,4,183.89,183.65
+traditional,purchase-only,quarterly,State,Delaware,DE,2005,4,208.28,208.21
+traditional,purchase-only,quarterly,State,Delaware,DE,2006,4,220.74,221.01
+traditional,purchase-only,quarterly,State,Delaware,DE,2007,4,214.49,214.79
+traditional,purchase-only,quarterly,State,Delaware,DE,2008,4,196.99,197.13
+traditional,purchase-only,quarterly,State,Delaware,DE,2009,4,190.09,190.0
+traditional,purchase-only,quarterly,State,Delaware,DE,2010,4,184.81,184.58
+traditional,purchase-only,quarterly,State,Delaware,DE,2011,4,175.29,175.1
+traditional,purchase-only,quarterly,State,Delaware,DE,2012,4,174.98,175.04
+traditional,purchase-only,quarterly,State,Delaware,DE,2013,4,179.49,180.11
+traditional,purchase-only,quarterly,State,Delaware,DE,2014,4,177.04,178.1
+traditional,purchase-only,quarterly,State,Delaware,DE,2015,4,186.27,187.68
+traditional,purchase-only,quarterly,State,Delaware,DE,2016,4,188.61,190.0
+traditional,purchase-only,quarterly,State,Delaware,DE,2017,4,193.46,194.81
+traditional,purchase-only,quarterly,State,Delaware,DE,2018,4,201.0,202.28
+traditional,purchase-only,quarterly,State,Delaware,DE,2019,4,215.37,216.67
+traditional,purchase-only,quarterly,State,Delaware,DE,2020,4,234.04,235.4
+traditional,purchase-only,quarterly,State,Delaware,DE,2021,4,268.77,270.36
+traditional,purchase-only,quarterly,State,Delaware,DE,2022,4,302.62,304.43
+traditional,purchase-only,quarterly,State,Delaware,DE,2023,4,317.61,319.44
+traditional,purchase-only,quarterly,State,Delaware,DE,2024,4,328.84,330.59
+traditional,purchase-only,quarterly,State,Florida,FL,1991,4,100.67,100.31
+traditional,purchase-only,quarterly,State,Florida,FL,1992,4,102.36,102.02
+traditional,purchase-only,quarterly,State,Florida,FL,1993,4,105.11,104.82
+traditional,purchase-only,quarterly,State,Florida,FL,1994,4,107.94,107.72
+traditional,purchase-only,quarterly,State,Florida,FL,1995,4,110.19,110.06
+traditional,purchase-only,quarterly,State,Florida,FL,1996,4,112.24,112.18
+traditional,purchase-only,quarterly,State,Florida,FL,1997,4,115.51,115.48
+traditional,purchase-only,quarterly,State,Florida,FL,1998,4,120.72,120.67
+traditional,purchase-only,quarterly,State,Florida,FL,1999,4,128.01,127.92
+traditional,purchase-only,quarterly,State,Florida,FL,2000,4,138.85,138.69
+traditional,purchase-only,quarterly,State,Florida,FL,2001,4,154.3,154.09
+traditional,purchase-only,quarterly,State,Florida,FL,2002,4,172.49,172.24
+traditional,purchase-only,quarterly,State,Florida,FL,2003,4,196.24,196.03
+traditional,purchase-only,quarterly,State,Florida,FL,2004,4,237.53,237.37
+traditional,purchase-only,quarterly,State,Florida,FL,2005,4,298.65,298.56
+traditional,purchase-only,quarterly,State,Florida,FL,2006,4,307.56,307.54
+traditional,purchase-only,quarterly,State,Florida,FL,2007,4,274.8,274.8
+traditional,purchase-only,quarterly,State,Florida,FL,2008,4,202.32,202.35
+traditional,purchase-only,quarterly,State,Florida,FL,2009,4,183.91,183.99
+traditional,purchase-only,quarterly,State,Florida,FL,2010,4,171.61,171.75
+traditional,purchase-only,quarterly,State,Florida,FL,2011,4,168.47,168.65
+traditional,purchase-only,quarterly,State,Florida,FL,2012,4,182.92,183.15
+traditional,purchase-only,quarterly,State,Florida,FL,2013,4,205.0,205.27
+traditional,purchase-only,quarterly,State,Florida,FL,2014,4,219.28,219.55
+traditional,purchase-only,quarterly,State,Florida,FL,2015,4,240.18,240.52
+traditional,purchase-only,quarterly,State,Florida,FL,2016,4,262.59,263.05
+traditional,purchase-only,quarterly,State,Florida,FL,2017,4,283.48,284.07
+traditional,purchase-only,quarterly,State,Florida,FL,2018,4,303.22,303.95
+traditional,purchase-only,quarterly,State,Florida,FL,2019,4,321.76,322.72
+traditional,purchase-only,quarterly,State,Florida,FL,2020,4,359.92,361.26
+traditional,purchase-only,quarterly,State,Florida,FL,2021,4,452.38,454.3
+traditional,purchase-only,quarterly,State,Florida,FL,2022,4,513.35,515.69
+traditional,purchase-only,quarterly,State,Florida,FL,2023,4,547.16,549.72
+traditional,purchase-only,quarterly,State,Florida,FL,2024,4,559.07,561.56
+traditional,purchase-only,quarterly,State,Georgia,GA,1991,4,101.1,100.63
+traditional,purchase-only,quarterly,State,Georgia,GA,1992,4,103.16,102.7
+traditional,purchase-only,quarterly,State,Georgia,GA,1993,4,106.13,105.7
+traditional,purchase-only,quarterly,State,Georgia,GA,1994,4,110.07,109.68
+traditional,purchase-only,quarterly,State,Georgia,GA,1995,4,114.95,114.61
+traditional,purchase-only,quarterly,State,Georgia,GA,1996,4,118.99,118.68
+traditional,purchase-only,quarterly,State,Georgia,GA,1997,4,124.74,124.45
+traditional,purchase-only,quarterly,State,Georgia,GA,1998,4,132.75,132.44
+traditional,purchase-only,quarterly,State,Georgia,GA,1999,4,142.19,141.83
+traditional,purchase-only,quarterly,State,Georgia,GA,2000,4,151.24,150.84
+traditional,purchase-only,quarterly,State,Georgia,GA,2001,4,158.61,158.16
+traditional,purchase-only,quarterly,State,Georgia,GA,2002,4,165.7,165.21
+traditional,purchase-only,quarterly,State,Georgia,GA,2003,4,170.56,170.04
+traditional,purchase-only,quarterly,State,Georgia,GA,2004,4,178.75,178.24
+traditional,purchase-only,quarterly,State,Georgia,GA,2005,4,190.53,190.19
+traditional,purchase-only,quarterly,State,Georgia,GA,2006,4,198.39,198.39
+traditional,purchase-only,quarterly,State,Georgia,GA,2007,4,195.5,196.0
+traditional,purchase-only,quarterly,State,Georgia,GA,2008,4,172.95,173.69
+traditional,purchase-only,quarterly,State,Georgia,GA,2009,4,167.08,168.05
+traditional,purchase-only,quarterly,State,Georgia,GA,2010,4,151.3,152.21
+traditional,purchase-only,quarterly,State,Georgia,GA,2011,4,146.5,147.34
+traditional,purchase-only,quarterly,State,Georgia,GA,2012,4,156.42,157.15
+traditional,purchase-only,quarterly,State,Georgia,GA,2013,4,170.55,171.28
+traditional,purchase-only,quarterly,State,Georgia,GA,2014,4,182.19,182.98
+traditional,purchase-only,quarterly,State,Georgia,GA,2015,4,192.95,193.85
+traditional,purchase-only,quarterly,State,Georgia,GA,2016,4,206.24,207.2
+traditional,purchase-only,quarterly,State,Georgia,GA,2017,4,220.23,221.17
+traditional,purchase-only,quarterly,State,Georgia,GA,2018,4,236.6,237.54
+traditional,purchase-only,quarterly,State,Georgia,GA,2019,4,252.24,253.07
+traditional,purchase-only,quarterly,State,Georgia,GA,2020,4,281.78,282.56
+traditional,purchase-only,quarterly,State,Georgia,GA,2021,4,340.05,340.85
+traditional,purchase-only,quarterly,State,Georgia,GA,2022,4,378.17,379.05
+traditional,purchase-only,quarterly,State,Georgia,GA,2023,4,403.88,404.77
+traditional,purchase-only,quarterly,State,Georgia,GA,2024,4,422.91,423.8
+traditional,purchase-only,quarterly,State,Hawaii,HI,1991,4,100.09,100.25
+traditional,purchase-only,quarterly,State,Hawaii,HI,1992,4,102.74,102.82
+traditional,purchase-only,quarterly,State,Hawaii,HI,1993,4,101.83,101.88
+traditional,purchase-only,quarterly,State,Hawaii,HI,1994,4,98.68,98.74
+traditional,purchase-only,quarterly,State,Hawaii,HI,1995,4,95.15,95.18
+traditional,purchase-only,quarterly,State,Hawaii,HI,1996,4,88.82,88.8
+traditional,purchase-only,quarterly,State,Hawaii,HI,1997,4,83.53,83.51
+traditional,purchase-only,quarterly,State,Hawaii,HI,1998,4,83.62,83.61
+traditional,purchase-only,quarterly,State,Hawaii,HI,1999,4,86.18,86.24
+traditional,purchase-only,quarterly,State,Hawaii,HI,2000,4,92.91,93.1
+traditional,purchase-only,quarterly,State,Hawaii,HI,2001,4,101.47,101.89
+traditional,purchase-only,quarterly,State,Hawaii,HI,2002,4,113.96,114.63
+traditional,purchase-only,quarterly,State,Hawaii,HI,2003,4,137.92,138.74
+traditional,purchase-only,quarterly,State,Hawaii,HI,2004,4,169.1,170.15
+traditional,purchase-only,quarterly,State,Hawaii,HI,2005,4,204.1,205.43
+traditional,purchase-only,quarterly,State,Hawaii,HI,2006,4,213.03,214.79
+traditional,purchase-only,quarterly,State,Hawaii,HI,2007,4,207.17,209.2
+traditional,purchase-only,quarterly,State,Hawaii,HI,2008,4,200.64,202.86
+traditional,purchase-only,quarterly,State,Hawaii,HI,2009,4,177.9,179.85
+traditional,purchase-only,quarterly,State,Hawaii,HI,2010,4,175.73,177.49
+traditional,purchase-only,quarterly,State,Hawaii,HI,2011,4,163.87,165.26
+traditional,purchase-only,quarterly,State,Hawaii,HI,2012,4,181.67,183.12
+traditional,purchase-only,quarterly,State,Hawaii,HI,2013,4,195.8,197.26
+traditional,purchase-only,quarterly,State,Hawaii,HI,2014,4,208.02,209.54
+traditional,purchase-only,quarterly,State,Hawaii,HI,2015,4,219.57,220.78
+traditional,purchase-only,quarterly,State,Hawaii,HI,2016,4,229.19,230.11
+traditional,purchase-only,quarterly,State,Hawaii,HI,2017,4,245.65,246.07
+traditional,purchase-only,quarterly,State,Hawaii,HI,2018,4,252.89,253.08
+traditional,purchase-only,quarterly,State,Hawaii,HI,2019,4,262.0,262.12
+traditional,purchase-only,quarterly,State,Hawaii,HI,2020,4,279.68,280.12
+traditional,purchase-only,quarterly,State,Hawaii,HI,2021,4,338.9,339.88
+traditional,purchase-only,quarterly,State,Hawaii,HI,2022,4,384.47,385.91
+traditional,purchase-only,quarterly,State,Hawaii,HI,2023,4,381.3,382.96
+traditional,purchase-only,quarterly,State,Hawaii,HI,2024,4,391.71,393.72
+traditional,purchase-only,quarterly,State,Iowa,IA,1991,4,103.18,102.73
+traditional,purchase-only,quarterly,State,Iowa,IA,1992,4,108.89,108.43
+traditional,purchase-only,quarterly,State,Iowa,IA,1993,4,118.25,117.79
+traditional,purchase-only,quarterly,State,Iowa,IA,1994,4,122.92,122.48
+traditional,purchase-only,quarterly,State,Iowa,IA,1995,4,128.97,128.54
+traditional,purchase-only,quarterly,State,Iowa,IA,1996,4,133.56,133.13
+traditional,purchase-only,quarterly,State,Iowa,IA,1997,4,138.02,137.61
+traditional,purchase-only,quarterly,State,Iowa,IA,1998,4,146.45,146.0
+traditional,purchase-only,quarterly,State,Iowa,IA,1999,4,152.48,151.97
+traditional,purchase-only,quarterly,State,Iowa,IA,2000,4,157.68,157.12
+traditional,purchase-only,quarterly,State,Iowa,IA,2001,4,163.96,163.35
+traditional,purchase-only,quarterly,State,Iowa,IA,2002,4,170.41,169.76
+traditional,purchase-only,quarterly,State,Iowa,IA,2003,4,176.04,175.37
+traditional,purchase-only,quarterly,State,Iowa,IA,2004,4,184.89,184.27
+traditional,purchase-only,quarterly,State,Iowa,IA,2005,4,191.04,190.47
+traditional,purchase-only,quarterly,State,Iowa,IA,2006,4,195.69,195.16
+traditional,purchase-only,quarterly,State,Iowa,IA,2007,4,197.93,197.41
+traditional,purchase-only,quarterly,State,Iowa,IA,2008,4,195.88,195.45
+traditional,purchase-only,quarterly,State,Iowa,IA,2009,4,194.83,194.42
+traditional,purchase-only,quarterly,State,Iowa,IA,2010,4,193.51,193.14
+traditional,purchase-only,quarterly,State,Iowa,IA,2011,4,192.17,191.81
+traditional,purchase-only,quarterly,State,Iowa,IA,2012,4,197.41,197.09
+traditional,purchase-only,quarterly,State,Iowa,IA,2013,4,204.26,203.92
+traditional,purchase-only,quarterly,State,Iowa,IA,2014,4,208.94,208.6
+traditional,purchase-only,quarterly,State,Iowa,IA,2015,4,218.07,217.77
+traditional,purchase-only,quarterly,State,Iowa,IA,2016,4,225.25,225.05
+traditional,purchase-only,quarterly,State,Iowa,IA,2017,4,234.62,234.5
+traditional,purchase-only,quarterly,State,Iowa,IA,2018,4,244.56,244.49
+traditional,purchase-only,quarterly,State,Iowa,IA,2019,4,252.13,252.17
+traditional,purchase-only,quarterly,State,Iowa,IA,2020,4,272.79,272.98
+traditional,purchase-only,quarterly,State,Iowa,IA,2021,4,303.01,303.36
+traditional,purchase-only,quarterly,State,Iowa,IA,2022,4,329.42,329.89
+traditional,purchase-only,quarterly,State,Iowa,IA,2023,4,348.64,349.17
+traditional,purchase-only,quarterly,State,Iowa,IA,2024,4,367.24,367.8
+traditional,purchase-only,quarterly,State,Idaho,ID,1991,4,105.96,105.21
+traditional,purchase-only,quarterly,State,Idaho,ID,1992,4,114.78,114.0
+traditional,purchase-only,quarterly,State,Idaho,ID,1993,4,125.1,124.32
+traditional,purchase-only,quarterly,State,Idaho,ID,1994,4,132.94,132.22
+traditional,purchase-only,quarterly,State,Idaho,ID,1995,4,137.2,136.62
+traditional,purchase-only,quarterly,State,Idaho,ID,1996,4,139.53,139.1
+traditional,purchase-only,quarterly,State,Idaho,ID,1997,4,141.22,140.93
+traditional,purchase-only,quarterly,State,Idaho,ID,1998,4,144.47,144.3
+traditional,purchase-only,quarterly,State,Idaho,ID,1999,4,149.24,149.18
+traditional,purchase-only,quarterly,State,Idaho,ID,2000,4,153.55,153.56
+traditional,purchase-only,quarterly,State,Idaho,ID,2001,4,157.78,157.88
+traditional,purchase-only,quarterly,State,Idaho,ID,2002,4,163.82,163.96
+traditional,purchase-only,quarterly,State,Idaho,ID,2003,4,173.37,173.5
+traditional,purchase-only,quarterly,State,Idaho,ID,2004,4,192.3,192.37
+traditional,purchase-only,quarterly,State,Idaho,ID,2005,4,228.0,228.14
+traditional,purchase-only,quarterly,State,Idaho,ID,2006,4,256.93,257.09
+traditional,purchase-only,quarterly,State,Idaho,ID,2007,4,258.99,259.16
+traditional,purchase-only,quarterly,State,Idaho,ID,2008,4,234.59,234.84
+traditional,purchase-only,quarterly,State,Idaho,ID,2009,4,216.0,216.51
+traditional,purchase-only,quarterly,State,Idaho,ID,2010,4,188.01,188.78
+traditional,purchase-only,quarterly,State,Idaho,ID,2011,4,181.71,182.7
+traditional,purchase-only,quarterly,State,Idaho,ID,2012,4,199.55,200.83
+traditional,purchase-only,quarterly,State,Idaho,ID,2013,4,214.83,216.31
+traditional,purchase-only,quarterly,State,Idaho,ID,2014,4,225.21,226.58
+traditional,purchase-only,quarterly,State,Idaho,ID,2015,4,247.23,248.37
+traditional,purchase-only,quarterly,State,Idaho,ID,2016,4,264.63,265.35
+traditional,purchase-only,quarterly,State,Idaho,ID,2017,4,295.81,296.3
+traditional,purchase-only,quarterly,State,Idaho,ID,2018,4,332.87,333.35
+traditional,purchase-only,quarterly,State,Idaho,ID,2019,4,376.09,377.02
+traditional,purchase-only,quarterly,State,Idaho,ID,2020,4,451.99,453.74
+traditional,purchase-only,quarterly,State,Idaho,ID,2021,4,577.35,580.15
+traditional,purchase-only,quarterly,State,Idaho,ID,2022,4,591.36,594.28
+traditional,purchase-only,quarterly,State,Idaho,ID,2023,4,602.6,605.04
+traditional,purchase-only,quarterly,State,Idaho,ID,2024,4,641.32,643.19
+traditional,purchase-only,quarterly,State,Illinois,IL,1991,4,102.65,102.26
+traditional,purchase-only,quarterly,State,Illinois,IL,1992,4,106.91,106.52
+traditional,purchase-only,quarterly,State,Illinois,IL,1993,4,110.91,110.59
+traditional,purchase-only,quarterly,State,Illinois,IL,1994,4,115.7,115.39
+traditional,purchase-only,quarterly,State,Illinois,IL,1995,4,119.13,118.87
+traditional,purchase-only,quarterly,State,Illinois,IL,1996,4,122.44,122.12
+traditional,purchase-only,quarterly,State,Illinois,IL,1997,4,124.51,124.21
+traditional,purchase-only,quarterly,State,Illinois,IL,1998,4,129.53,129.23
+traditional,purchase-only,quarterly,State,Illinois,IL,1999,4,136.45,136.23
+traditional,purchase-only,quarterly,State,Illinois,IL,2000,4,145.29,145.1
+traditional,purchase-only,quarterly,State,Illinois,IL,2001,4,154.97,154.77
+traditional,purchase-only,quarterly,State,Illinois,IL,2002,4,165.96,165.7
+traditional,purchase-only,quarterly,State,Illinois,IL,2003,4,178.0,177.7
+traditional,purchase-only,quarterly,State,Illinois,IL,2004,4,189.07,188.76
+traditional,purchase-only,quarterly,State,Illinois,IL,2005,4,202.78,202.36
+traditional,purchase-only,quarterly,State,Illinois,IL,2006,4,208.58,207.99
+traditional,purchase-only,quarterly,State,Illinois,IL,2007,4,206.03,205.37
+traditional,purchase-only,quarterly,State,Illinois,IL,2008,4,189.38,188.8
+traditional,purchase-only,quarterly,State,Illinois,IL,2009,4,179.09,178.77
+traditional,purchase-only,quarterly,State,Illinois,IL,2010,4,171.25,171.26
+traditional,purchase-only,quarterly,State,Illinois,IL,2011,4,160.83,161.26
+traditional,purchase-only,quarterly,State,Illinois,IL,2012,4,161.72,162.5
+traditional,purchase-only,quarterly,State,Illinois,IL,2013,4,170.31,171.31
+traditional,purchase-only,quarterly,State,Illinois,IL,2014,4,174.43,175.53
+traditional,purchase-only,quarterly,State,Illinois,IL,2015,4,178.9,180.03
+traditional,purchase-only,quarterly,State,Illinois,IL,2016,4,186.87,188.1
+traditional,purchase-only,quarterly,State,Illinois,IL,2017,4,192.09,193.3
+traditional,purchase-only,quarterly,State,Illinois,IL,2018,4,196.42,197.52
+traditional,purchase-only,quarterly,State,Illinois,IL,2019,4,202.75,203.76
+traditional,purchase-only,quarterly,State,Illinois,IL,2020,4,219.45,220.6
+traditional,purchase-only,quarterly,State,Illinois,IL,2021,4,246.11,247.71
+traditional,purchase-only,quarterly,State,Illinois,IL,2022,4,262.62,264.49
+traditional,purchase-only,quarterly,State,Illinois,IL,2023,4,285.45,287.51
+traditional,purchase-only,quarterly,State,Illinois,IL,2024,4,307.54,309.51
+traditional,purchase-only,quarterly,State,Indiana,IN,1991,4,101.75,101.42
+traditional,purchase-only,quarterly,State,Indiana,IN,1992,4,106.18,105.84
+traditional,purchase-only,quarterly,State,Indiana,IN,1993,4,111.82,111.45
+traditional,purchase-only,quarterly,State,Indiana,IN,1994,4,116.45,116.05
+traditional,purchase-only,quarterly,State,Indiana,IN,1995,4,121.21,120.75
+traditional,purchase-only,quarterly,State,Indiana,IN,1996,4,126.29,125.8
+traditional,purchase-only,quarterly,State,Indiana,IN,1997,4,129.34,128.87
+traditional,purchase-only,quarterly,State,Indiana,IN,1998,4,134.57,134.13
+traditional,purchase-only,quarterly,State,Indiana,IN,1999,4,138.25,137.86
+traditional,purchase-only,quarterly,State,Indiana,IN,2000,4,142.5,142.16
+traditional,purchase-only,quarterly,State,Indiana,IN,2001,4,147.26,146.98
+traditional,purchase-only,quarterly,State,Indiana,IN,2002,4,149.35,149.08
+traditional,purchase-only,quarterly,State,Indiana,IN,2003,4,154.65,154.43
+traditional,purchase-only,quarterly,State,Indiana,IN,2004,4,159.26,159.17
+traditional,purchase-only,quarterly,State,Indiana,IN,2005,4,164.48,164.6
+traditional,purchase-only,quarterly,State,Indiana,IN,2006,4,166.47,166.65
+traditional,purchase-only,quarterly,State,Indiana,IN,2007,4,164.59,164.73
+traditional,purchase-only,quarterly,State,Indiana,IN,2008,4,157.04,157.02
+traditional,purchase-only,quarterly,State,Indiana,IN,2009,4,158.01,157.8
+traditional,purchase-only,quarterly,State,Indiana,IN,2010,4,155.34,154.97
+traditional,purchase-only,quarterly,State,Indiana,IN,2011,4,155.8,155.43
+traditional,purchase-only,quarterly,State,Indiana,IN,2012,4,157.93,157.68
+traditional,purchase-only,quarterly,State,Indiana,IN,2013,4,163.78,163.7
+traditional,purchase-only,quarterly,State,Indiana,IN,2014,4,167.88,167.89
+traditional,purchase-only,quarterly,State,Indiana,IN,2015,4,174.43,174.53
+traditional,purchase-only,quarterly,State,Indiana,IN,2016,4,184.28,184.44
+traditional,purchase-only,quarterly,State,Indiana,IN,2017,4,195.4,195.62
+traditional,purchase-only,quarterly,State,Indiana,IN,2018,4,207.54,207.88
+traditional,purchase-only,quarterly,State,Indiana,IN,2019,4,222.31,222.87
+traditional,purchase-only,quarterly,State,Indiana,IN,2020,4,249.82,250.63
+traditional,purchase-only,quarterly,State,Indiana,IN,2021,4,286.41,287.37
+traditional,purchase-only,quarterly,State,Indiana,IN,2022,4,312.57,313.58
+traditional,purchase-only,quarterly,State,Indiana,IN,2023,4,336.58,337.59
+traditional,purchase-only,quarterly,State,Indiana,IN,2024,4,357.93,358.89
+traditional,purchase-only,quarterly,State,Kansas,KS,1991,4,100.94,100.77
+traditional,purchase-only,quarterly,State,Kansas,KS,1992,4,104.41,104.25
+traditional,purchase-only,quarterly,State,Kansas,KS,1993,4,111.0,110.84
+traditional,purchase-only,quarterly,State,Kansas,KS,1994,4,116.54,116.38
+traditional,purchase-only,quarterly,State,Kansas,KS,1995,4,123.48,123.32
+traditional,purchase-only,quarterly,State,Kansas,KS,1996,4,127.49,127.35
+traditional,purchase-only,quarterly,State,Kansas,KS,1997,4,133.39,133.3
+traditional,purchase-only,quarterly,State,Kansas,KS,1998,4,142.81,142.78
+traditional,purchase-only,quarterly,State,Kansas,KS,1999,4,147.7,147.72
+traditional,purchase-only,quarterly,State,Kansas,KS,2000,4,154.16,154.26
+traditional,purchase-only,quarterly,State,Kansas,KS,2001,4,162.25,162.41
+traditional,purchase-only,quarterly,State,Kansas,KS,2002,4,167.21,167.43
+traditional,purchase-only,quarterly,State,Kansas,KS,2003,4,173.99,174.26
+traditional,purchase-only,quarterly,State,Kansas,KS,2004,4,180.77,181.1
+traditional,purchase-only,quarterly,State,Kansas,KS,2005,4,188.08,188.42
+traditional,purchase-only,quarterly,State,Kansas,KS,2006,4,195.45,195.64
+traditional,purchase-only,quarterly,State,Kansas,KS,2007,4,198.31,198.2
+traditional,purchase-only,quarterly,State,Kansas,KS,2008,4,194.35,193.9
+traditional,purchase-only,quarterly,State,Kansas,KS,2009,4,195.47,194.81
+traditional,purchase-only,quarterly,State,Kansas,KS,2010,4,189.4,188.81
+traditional,purchase-only,quarterly,State,Kansas,KS,2011,4,185.49,185.19
+traditional,purchase-only,quarterly,State,Kansas,KS,2012,4,190.23,190.48
+traditional,purchase-only,quarterly,State,Kansas,KS,2013,4,191.73,192.53
+traditional,purchase-only,quarterly,State,Kansas,KS,2014,4,200.54,201.85
+traditional,purchase-only,quarterly,State,Kansas,KS,2015,4,206.65,208.13
+traditional,purchase-only,quarterly,State,Kansas,KS,2016,4,219.72,221.29
+traditional,purchase-only,quarterly,State,Kansas,KS,2017,4,228.22,229.65
+traditional,purchase-only,quarterly,State,Kansas,KS,2018,4,240.78,242.31
+traditional,purchase-only,quarterly,State,Kansas,KS,2019,4,253.4,255.12
+traditional,purchase-only,quarterly,State,Kansas,KS,2020,4,281.35,283.67
+traditional,purchase-only,quarterly,State,Kansas,KS,2021,4,317.42,320.43
+traditional,purchase-only,quarterly,State,Kansas,KS,2022,4,343.21,346.97
+traditional,purchase-only,quarterly,State,Kansas,KS,2023,4,372.7,376.99
+traditional,purchase-only,quarterly,State,Kansas,KS,2024,4,392.79,397.4
+traditional,purchase-only,quarterly,State,Kentucky,KY,1991,4,101.16,101.64
+traditional,purchase-only,quarterly,State,Kentucky,KY,1992,4,106.24,106.73
+traditional,purchase-only,quarterly,State,Kentucky,KY,1993,4,111.0,111.49
+traditional,purchase-only,quarterly,State,Kentucky,KY,1994,4,117.16,117.67
+traditional,purchase-only,quarterly,State,Kentucky,KY,1995,4,122.79,123.31
+traditional,purchase-only,quarterly,State,Kentucky,KY,1996,4,127.45,127.96
+traditional,purchase-only,quarterly,State,Kentucky,KY,1997,4,131.37,131.86
+traditional,purchase-only,quarterly,State,Kentucky,KY,1998,4,137.83,138.3
+traditional,purchase-only,quarterly,State,Kentucky,KY,1999,4,144.64,145.04
+traditional,purchase-only,quarterly,State,Kentucky,KY,2000,4,150.15,150.49
+traditional,purchase-only,quarterly,State,Kentucky,KY,2001,4,155.76,156.03
+traditional,purchase-only,quarterly,State,Kentucky,KY,2002,4,161.29,161.61
+traditional,purchase-only,quarterly,State,Kentucky,KY,2003,4,168.23,168.66
+traditional,purchase-only,quarterly,State,Kentucky,KY,2004,4,176.39,177.04
+traditional,purchase-only,quarterly,State,Kentucky,KY,2005,4,183.12,183.99
+traditional,purchase-only,quarterly,State,Kentucky,KY,2006,4,187.67,188.76
+traditional,purchase-only,quarterly,State,Kentucky,KY,2007,4,189.78,190.99
+traditional,purchase-only,quarterly,State,Kentucky,KY,2008,4,185.26,186.48
+traditional,purchase-only,quarterly,State,Kentucky,KY,2009,4,185.09,186.3
+traditional,purchase-only,quarterly,State,Kentucky,KY,2010,4,184.64,185.83
+traditional,purchase-only,quarterly,State,Kentucky,KY,2011,4,180.08,181.24
+traditional,purchase-only,quarterly,State,Kentucky,KY,2012,4,184.64,185.81
+traditional,purchase-only,quarterly,State,Kentucky,KY,2013,4,189.24,190.52
+traditional,purchase-only,quarterly,State,Kentucky,KY,2014,4,194.05,195.47
+traditional,purchase-only,quarterly,State,Kentucky,KY,2015,4,203.85,205.38
+traditional,purchase-only,quarterly,State,Kentucky,KY,2016,4,211.48,213.08
+traditional,purchase-only,quarterly,State,Kentucky,KY,2017,4,224.83,226.42
+traditional,purchase-only,quarterly,State,Kentucky,KY,2018,4,236.57,238.21
+traditional,purchase-only,quarterly,State,Kentucky,KY,2019,4,246.47,248.13
+traditional,purchase-only,quarterly,State,Kentucky,KY,2020,4,273.84,275.77
+traditional,purchase-only,quarterly,State,Kentucky,KY,2021,4,312.85,315.02
+traditional,purchase-only,quarterly,State,Kentucky,KY,2022,4,342.66,345.12
+traditional,purchase-only,quarterly,State,Kentucky,KY,2023,4,364.78,367.25
+traditional,purchase-only,quarterly,State,Kentucky,KY,2024,4,388.38,390.92
+traditional,purchase-only,quarterly,State,Louisiana,LA,1991,4,105.02,104.6
+traditional,purchase-only,quarterly,State,Louisiana,LA,1992,4,111.04,110.64
+traditional,purchase-only,quarterly,State,Louisiana,LA,1993,4,118.74,118.36
+traditional,purchase-only,quarterly,State,Louisiana,LA,1994,4,122.68,122.35
+traditional,purchase-only,quarterly,State,Louisiana,LA,1995,4,130.47,130.19
+traditional,purchase-only,quarterly,State,Louisiana,LA,1996,4,136.1,135.89
+traditional,purchase-only,quarterly,State,Louisiana,LA,1997,4,141.0,140.86
+traditional,purchase-only,quarterly,State,Louisiana,LA,1998,4,148.73,148.64
+traditional,purchase-only,quarterly,State,Louisiana,LA,1999,4,152.87,152.8
+traditional,purchase-only,quarterly,State,Louisiana,LA,2000,4,157.54,157.48
+traditional,purchase-only,quarterly,State,Louisiana,LA,2001,4,165.32,165.23
+traditional,purchase-only,quarterly,State,Louisiana,LA,2002,4,172.0,171.82
+traditional,purchase-only,quarterly,State,Louisiana,LA,2003,4,181.88,181.61
+traditional,purchase-only,quarterly,State,Louisiana,LA,2004,4,192.9,192.57
+traditional,purchase-only,quarterly,State,Louisiana,LA,2005,4,214.04,213.73
+traditional,purchase-only,quarterly,State,Louisiana,LA,2006,4,231.36,231.05
+traditional,purchase-only,quarterly,State,Louisiana,LA,2007,4,236.02,235.73
+traditional,purchase-only,quarterly,State,Louisiana,LA,2008,4,229.52,229.2
+traditional,purchase-only,quarterly,State,Louisiana,LA,2009,4,228.53,228.29
+traditional,purchase-only,quarterly,State,Louisiana,LA,2010,4,225.58,225.41
+traditional,purchase-only,quarterly,State,Louisiana,LA,2011,4,222.96,222.98
+traditional,purchase-only,quarterly,State,Louisiana,LA,2012,4,229.06,229.27
+traditional,purchase-only,quarterly,State,Louisiana,LA,2013,4,238.24,238.67
+traditional,purchase-only,quarterly,State,Louisiana,LA,2014,4,244.62,245.05
+traditional,purchase-only,quarterly,State,Louisiana,LA,2015,4,254.08,254.38
+traditional,purchase-only,quarterly,State,Louisiana,LA,2016,4,264.7,264.7
+traditional,purchase-only,quarterly,State,Louisiana,LA,2017,4,271.0,270.72
+traditional,purchase-only,quarterly,State,Louisiana,LA,2018,4,276.32,275.83
+traditional,purchase-only,quarterly,State,Louisiana,LA,2019,4,284.71,284.17
+traditional,purchase-only,quarterly,State,Louisiana,LA,2020,4,302.07,301.62
+traditional,purchase-only,quarterly,State,Louisiana,LA,2021,4,333.3,332.94
+traditional,purchase-only,quarterly,State,Louisiana,LA,2022,4,350.7,350.49
+traditional,purchase-only,quarterly,State,Louisiana,LA,2023,4,357.07,356.93
+traditional,purchase-only,quarterly,State,Louisiana,LA,2024,4,359.72,359.59
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1991,4,98.15,97.23
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1992,4,97.29,96.45
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1993,4,96.87,96.18
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1994,4,98.0,97.41
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1995,4,100.19,99.67
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1996,4,104.59,104.07
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1997,4,110.46,110.01
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1998,4,121.2,120.82
+traditional,purchase-only,quarterly,State,Massachusetts,MA,1999,4,135.84,135.52
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2000,4,156.21,155.82
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2001,4,177.01,176.48
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2002,4,201.9,201.23
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2003,4,222.05,221.43
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2004,4,242.19,241.7
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2005,4,250.69,250.4
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2006,4,239.46,239.17
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2007,4,230.1,229.63
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2008,4,216.03,215.19
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2009,4,214.56,213.31
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2010,4,212.04,210.65
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2011,4,206.51,205.34
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2012,4,210.27,209.55
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2013,4,220.84,220.61
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2014,4,228.48,228.7
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2015,4,238.81,239.31
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2016,4,252.61,253.28
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2017,4,268.53,269.14
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2018,4,282.74,283.08
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2019,4,297.91,298.16
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2020,4,331.38,332.07
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2021,4,379.84,381.66
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2022,4,398.41,400.99
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2023,4,433.97,436.77
+traditional,purchase-only,quarterly,State,Massachusetts,MA,2024,4,459.2,461.56
+traditional,purchase-only,quarterly,State,Maryland,MD,1991,4,102.11,100.96
+traditional,purchase-only,quarterly,State,Maryland,MD,1992,4,103.06,101.96
+traditional,purchase-only,quarterly,State,Maryland,MD,1993,4,102.57,101.59
+traditional,purchase-only,quarterly,State,Maryland,MD,1994,4,102.23,101.4
+traditional,purchase-only,quarterly,State,Maryland,MD,1995,4,102.48,101.78
+traditional,purchase-only,quarterly,State,Maryland,MD,1996,4,102.69,102.06
+traditional,purchase-only,quarterly,State,Maryland,MD,1997,4,103.7,103.1
+traditional,purchase-only,quarterly,State,Maryland,MD,1998,4,107.26,106.65
+traditional,purchase-only,quarterly,State,Maryland,MD,1999,4,113.65,113.04
+traditional,purchase-only,quarterly,State,Maryland,MD,2000,4,121.79,121.16
+traditional,purchase-only,quarterly,State,Maryland,MD,2001,4,136.1,135.5
+traditional,purchase-only,quarterly,State,Maryland,MD,2002,4,156.0,155.42
+traditional,purchase-only,quarterly,State,Maryland,MD,2003,4,178.6,178.09
+traditional,purchase-only,quarterly,State,Maryland,MD,2004,4,213.43,212.92
+traditional,purchase-only,quarterly,State,Maryland,MD,2005,4,253.59,253.2
+traditional,purchase-only,quarterly,State,Maryland,MD,2006,4,263.67,263.42
+traditional,purchase-only,quarterly,State,Maryland,MD,2007,4,257.61,257.35
+traditional,purchase-only,quarterly,State,Maryland,MD,2008,4,219.47,219.08
+traditional,purchase-only,quarterly,State,Maryland,MD,2009,4,211.14,210.61
+traditional,purchase-only,quarterly,State,Maryland,MD,2010,4,205.11,204.51
+traditional,purchase-only,quarterly,State,Maryland,MD,2011,4,197.18,196.52
+traditional,purchase-only,quarterly,State,Maryland,MD,2012,4,204.98,204.38
+traditional,purchase-only,quarterly,State,Maryland,MD,2013,4,215.24,214.79
+traditional,purchase-only,quarterly,State,Maryland,MD,2014,4,217.8,217.63
+traditional,purchase-only,quarterly,State,Maryland,MD,2015,4,220.1,220.03
+traditional,purchase-only,quarterly,State,Maryland,MD,2016,4,231.31,231.39
+traditional,purchase-only,quarterly,State,Maryland,MD,2017,4,240.61,240.78
+traditional,purchase-only,quarterly,State,Maryland,MD,2018,4,244.04,244.48
+traditional,purchase-only,quarterly,State,Maryland,MD,2019,4,252.05,252.72
+traditional,purchase-only,quarterly,State,Maryland,MD,2020,4,278.03,279.15
+traditional,purchase-only,quarterly,State,Maryland,MD,2021,4,308.32,309.75
+traditional,purchase-only,quarterly,State,Maryland,MD,2022,4,326.87,328.53
+traditional,purchase-only,quarterly,State,Maryland,MD,2023,4,344.65,346.25
+traditional,purchase-only,quarterly,State,Maryland,MD,2024,4,365.83,367.39
+traditional,purchase-only,quarterly,State,Maine,ME,1991,4,99.96,101.31
+traditional,purchase-only,quarterly,State,Maine,ME,1992,4,100.27,101.62
+traditional,purchase-only,quarterly,State,Maine,ME,1993,4,96.83,98.08
+traditional,purchase-only,quarterly,State,Maine,ME,1994,4,96.4,97.53
+traditional,purchase-only,quarterly,State,Maine,ME,1995,4,97.32,98.23
+traditional,purchase-only,quarterly,State,Maine,ME,1996,4,100.94,101.6
+traditional,purchase-only,quarterly,State,Maine,ME,1997,4,105.2,105.65
+traditional,purchase-only,quarterly,State,Maine,ME,1998,4,112.46,112.79
+traditional,purchase-only,quarterly,State,Maine,ME,1999,4,120.48,120.85
+traditional,purchase-only,quarterly,State,Maine,ME,2000,4,132.1,132.67
+traditional,purchase-only,quarterly,State,Maine,ME,2001,4,145.77,146.66
+traditional,purchase-only,quarterly,State,Maine,ME,2002,4,164.34,165.51
+traditional,purchase-only,quarterly,State,Maine,ME,2003,4,184.52,185.85
+traditional,purchase-only,quarterly,State,Maine,ME,2004,4,201.37,202.64
+traditional,purchase-only,quarterly,State,Maine,ME,2005,4,218.7,219.93
+traditional,purchase-only,quarterly,State,Maine,ME,2006,4,217.49,218.53
+traditional,purchase-only,quarterly,State,Maine,ME,2007,4,217.33,218.16
+traditional,purchase-only,quarterly,State,Maine,ME,2008,4,204.22,204.7
+traditional,purchase-only,quarterly,State,Maine,ME,2009,4,202.27,202.51
+traditional,purchase-only,quarterly,State,Maine,ME,2010,4,199.21,199.37
+traditional,purchase-only,quarterly,State,Maine,ME,2011,4,197.11,197.37
+traditional,purchase-only,quarterly,State,Maine,ME,2012,4,197.29,197.83
+traditional,purchase-only,quarterly,State,Maine,ME,2013,4,197.05,197.86
+traditional,purchase-only,quarterly,State,Maine,ME,2014,4,202.35,203.51
+traditional,purchase-only,quarterly,State,Maine,ME,2015,4,209.16,210.5
+traditional,purchase-only,quarterly,State,Maine,ME,2016,4,224.04,225.57
+traditional,purchase-only,quarterly,State,Maine,ME,2017,4,232.71,234.12
+traditional,purchase-only,quarterly,State,Maine,ME,2018,4,248.79,250.36
+traditional,purchase-only,quarterly,State,Maine,ME,2019,4,265.58,267.31
+traditional,purchase-only,quarterly,State,Maine,ME,2020,4,303.12,305.6
+traditional,purchase-only,quarterly,State,Maine,ME,2021,4,363.85,367.48
+traditional,purchase-only,quarterly,State,Maine,ME,2022,4,410.02,415.29
+traditional,purchase-only,quarterly,State,Maine,ME,2023,4,437.36,443.89
+traditional,purchase-only,quarterly,State,Maine,ME,2024,4,469.04,476.85
+traditional,purchase-only,quarterly,State,Michigan,MI,1991,4,102.45,102.16
+traditional,purchase-only,quarterly,State,Michigan,MI,1992,4,106.09,105.8
+traditional,purchase-only,quarterly,State,Michigan,MI,1993,4,109.4,109.13
+traditional,purchase-only,quarterly,State,Michigan,MI,1994,4,115.56,115.34
+traditional,purchase-only,quarterly,State,Michigan,MI,1995,4,125.26,125.06
+traditional,purchase-only,quarterly,State,Michigan,MI,1996,4,134.6,134.42
+traditional,purchase-only,quarterly,State,Michigan,MI,1997,4,142.73,142.55
+traditional,purchase-only,quarterly,State,Michigan,MI,1998,4,152.42,152.27
+traditional,purchase-only,quarterly,State,Michigan,MI,1999,4,162.43,162.31
+traditional,purchase-only,quarterly,State,Michigan,MI,2000,4,172.67,172.54
+traditional,purchase-only,quarterly,State,Michigan,MI,2001,4,180.75,180.54
+traditional,purchase-only,quarterly,State,Michigan,MI,2002,4,187.85,187.53
+traditional,purchase-only,quarterly,State,Michigan,MI,2003,4,193.69,193.3
+traditional,purchase-only,quarterly,State,Michigan,MI,2004,4,198.91,198.54
+traditional,purchase-only,quarterly,State,Michigan,MI,2005,4,199.06,198.81
+traditional,purchase-only,quarterly,State,Michigan,MI,2006,4,190.37,190.19
+traditional,purchase-only,quarterly,State,Michigan,MI,2007,4,172.35,171.97
+traditional,purchase-only,quarterly,State,Michigan,MI,2008,4,150.91,150.13
+traditional,purchase-only,quarterly,State,Michigan,MI,2009,4,146.47,145.3
+traditional,purchase-only,quarterly,State,Michigan,MI,2010,4,142.78,141.6
+traditional,purchase-only,quarterly,State,Michigan,MI,2011,4,140.26,139.53
+traditional,purchase-only,quarterly,State,Michigan,MI,2012,4,149.47,149.3
+traditional,purchase-only,quarterly,State,Michigan,MI,2013,4,162.03,162.3
+traditional,purchase-only,quarterly,State,Michigan,MI,2014,4,173.03,173.49
+traditional,purchase-only,quarterly,State,Michigan,MI,2015,4,182.91,183.48
+traditional,purchase-only,quarterly,State,Michigan,MI,2016,4,194.39,195.15
+traditional,purchase-only,quarterly,State,Michigan,MI,2017,4,209.18,210.05
+traditional,purchase-only,quarterly,State,Michigan,MI,2018,4,223.69,224.55
+traditional,purchase-only,quarterly,State,Michigan,MI,2019,4,236.34,237.28
+traditional,purchase-only,quarterly,State,Michigan,MI,2020,4,262.63,264.01
+traditional,purchase-only,quarterly,State,Michigan,MI,2021,4,302.06,304.23
+traditional,purchase-only,quarterly,State,Michigan,MI,2022,4,321.21,323.87
+traditional,purchase-only,quarterly,State,Michigan,MI,2023,4,351.52,354.49
+traditional,purchase-only,quarterly,State,Michigan,MI,2024,4,368.48,371.56
+traditional,purchase-only,quarterly,State,Minnesota,MN,1991,4,100.21,100.15
+traditional,purchase-only,quarterly,State,Minnesota,MN,1992,4,104.32,104.23
+traditional,purchase-only,quarterly,State,Minnesota,MN,1993,4,109.37,109.25
+traditional,purchase-only,quarterly,State,Minnesota,MN,1994,4,113.6,113.46
+traditional,purchase-only,quarterly,State,Minnesota,MN,1995,4,118.81,118.67
+traditional,purchase-only,quarterly,State,Minnesota,MN,1996,4,124.14,124.05
+traditional,purchase-only,quarterly,State,Minnesota,MN,1997,4,128.31,128.29
+traditional,purchase-only,quarterly,State,Minnesota,MN,1998,4,138.78,138.89
+traditional,purchase-only,quarterly,State,Minnesota,MN,1999,4,152.79,153.02
+traditional,purchase-only,quarterly,State,Minnesota,MN,2000,4,170.76,171.1
+traditional,purchase-only,quarterly,State,Minnesota,MN,2001,4,188.22,188.61
+traditional,purchase-only,quarterly,State,Minnesota,MN,2002,4,205.98,206.37
+traditional,purchase-only,quarterly,State,Minnesota,MN,2003,4,223.02,223.4
+traditional,purchase-only,quarterly,State,Minnesota,MN,2004,4,237.19,237.62
+traditional,purchase-only,quarterly,State,Minnesota,MN,2005,4,249.66,250.16
+traditional,purchase-only,quarterly,State,Minnesota,MN,2006,4,247.03,247.38
+traditional,purchase-only,quarterly,State,Minnesota,MN,2007,4,236.8,236.79
+traditional,purchase-only,quarterly,State,Minnesota,MN,2008,4,214.6,214.12
+traditional,purchase-only,quarterly,State,Minnesota,MN,2009,4,210.93,210.08
+traditional,purchase-only,quarterly,State,Minnesota,MN,2010,4,203.47,202.5
+traditional,purchase-only,quarterly,State,Minnesota,MN,2011,4,195.09,194.3
+traditional,purchase-only,quarterly,State,Minnesota,MN,2012,4,205.6,205.21
+traditional,purchase-only,quarterly,State,Minnesota,MN,2013,4,217.98,218.21
+traditional,purchase-only,quarterly,State,Minnesota,MN,2014,4,225.76,226.66
+traditional,purchase-only,quarterly,State,Minnesota,MN,2015,4,237.4,238.83
+traditional,purchase-only,quarterly,State,Minnesota,MN,2016,4,250.52,252.38
+traditional,purchase-only,quarterly,State,Minnesota,MN,2017,4,265.94,268.11
+traditional,purchase-only,quarterly,State,Minnesota,MN,2018,4,280.83,283.29
+traditional,purchase-only,quarterly,State,Minnesota,MN,2019,4,296.71,299.41
+traditional,purchase-only,quarterly,State,Minnesota,MN,2020,4,324.92,328.06
+traditional,purchase-only,quarterly,State,Minnesota,MN,2021,4,365.12,368.85
+traditional,purchase-only,quarterly,State,Minnesota,MN,2022,4,381.6,385.7
+traditional,purchase-only,quarterly,State,Minnesota,MN,2023,4,398.28,402.65
+traditional,purchase-only,quarterly,State,Minnesota,MN,2024,4,417.4,421.97
+traditional,purchase-only,quarterly,State,Missouri,MO,1991,4,102.12,101.76
+traditional,purchase-only,quarterly,State,Missouri,MO,1992,4,104.15,103.79
+traditional,purchase-only,quarterly,State,Missouri,MO,1993,4,108.97,108.62
+traditional,purchase-only,quarterly,State,Missouri,MO,1994,4,113.84,113.51
+traditional,purchase-only,quarterly,State,Missouri,MO,1995,4,119.04,118.72
+traditional,purchase-only,quarterly,State,Missouri,MO,1996,4,123.67,123.35
+traditional,purchase-only,quarterly,State,Missouri,MO,1997,4,127.35,127.01
+traditional,purchase-only,quarterly,State,Missouri,MO,1998,4,134.41,134.05
+traditional,purchase-only,quarterly,State,Missouri,MO,1999,4,141.19,140.8
+traditional,purchase-only,quarterly,State,Missouri,MO,2000,4,149.89,149.5
+traditional,purchase-only,quarterly,State,Missouri,MO,2001,4,158.09,157.69
+traditional,purchase-only,quarterly,State,Missouri,MO,2002,4,166.04,165.7
+traditional,purchase-only,quarterly,State,Missouri,MO,2003,4,175.53,175.29
+traditional,purchase-only,quarterly,State,Missouri,MO,2004,4,185.42,185.38
+traditional,purchase-only,quarterly,State,Missouri,MO,2005,4,195.82,196.07
+traditional,purchase-only,quarterly,State,Missouri,MO,2006,4,201.28,201.83
+traditional,purchase-only,quarterly,State,Missouri,MO,2007,4,198.53,199.35
+traditional,purchase-only,quarterly,State,Missouri,MO,2008,4,187.68,188.64
+traditional,purchase-only,quarterly,State,Missouri,MO,2009,4,186.49,187.57
+traditional,purchase-only,quarterly,State,Missouri,MO,2010,4,175.6,176.62
+traditional,purchase-only,quarterly,State,Missouri,MO,2011,4,173.6,174.51
+traditional,purchase-only,quarterly,State,Missouri,MO,2012,4,177.91,178.71
+traditional,purchase-only,quarterly,State,Missouri,MO,2013,4,183.88,184.52
+traditional,purchase-only,quarterly,State,Missouri,MO,2014,4,191.52,192.06
+traditional,purchase-only,quarterly,State,Missouri,MO,2015,4,199.79,200.19
+traditional,purchase-only,quarterly,State,Missouri,MO,2016,4,210.4,210.77
+traditional,purchase-only,quarterly,State,Missouri,MO,2017,4,220.94,221.24
+traditional,purchase-only,quarterly,State,Missouri,MO,2018,4,234.58,235.01
+traditional,purchase-only,quarterly,State,Missouri,MO,2019,4,248.94,249.58
+traditional,purchase-only,quarterly,State,Missouri,MO,2020,4,274.94,276.0
+traditional,purchase-only,quarterly,State,Missouri,MO,2021,4,316.62,318.31
+traditional,purchase-only,quarterly,State,Missouri,MO,2022,4,343.23,345.59
+traditional,purchase-only,quarterly,State,Missouri,MO,2023,4,369.27,372.2
+traditional,purchase-only,quarterly,State,Missouri,MO,2024,4,387.74,390.97
+traditional,purchase-only,quarterly,State,Mississippi,MS,1991,4,100.15,100.87
+traditional,purchase-only,quarterly,State,Mississippi,MS,1992,4,103.38,104.07
+traditional,purchase-only,quarterly,State,Mississippi,MS,1993,4,108.86,109.51
+traditional,purchase-only,quarterly,State,Mississippi,MS,1994,4,114.79,115.43
+traditional,purchase-only,quarterly,State,Mississippi,MS,1995,4,119.55,120.21
+traditional,purchase-only,quarterly,State,Mississippi,MS,1996,4,123.79,124.53
+traditional,purchase-only,quarterly,State,Mississippi,MS,1997,4,126.84,127.68
+traditional,purchase-only,quarterly,State,Mississippi,MS,1998,4,133.3,134.28
+traditional,purchase-only,quarterly,State,Mississippi,MS,1999,4,137.26,138.28
+traditional,purchase-only,quarterly,State,Mississippi,MS,2000,4,141.57,142.58
+traditional,purchase-only,quarterly,State,Mississippi,MS,2001,4,146.44,147.44
+traditional,purchase-only,quarterly,State,Mississippi,MS,2002,4,151.22,152.17
+traditional,purchase-only,quarterly,State,Mississippi,MS,2003,4,154.46,155.34
+traditional,purchase-only,quarterly,State,Mississippi,MS,2004,4,161.68,162.46
+traditional,purchase-only,quarterly,State,Mississippi,MS,2005,4,177.91,178.64
+traditional,purchase-only,quarterly,State,Mississippi,MS,2006,4,191.11,191.79
+traditional,purchase-only,quarterly,State,Mississippi,MS,2007,4,193.97,194.7
+traditional,purchase-only,quarterly,State,Mississippi,MS,2008,4,186.55,187.35
+traditional,purchase-only,quarterly,State,Mississippi,MS,2009,4,177.24,178.23
+traditional,purchase-only,quarterly,State,Mississippi,MS,2010,4,172.69,173.89
+traditional,purchase-only,quarterly,State,Mississippi,MS,2011,4,175.52,177.05
+traditional,purchase-only,quarterly,State,Mississippi,MS,2012,4,174.78,176.38
+traditional,purchase-only,quarterly,State,Mississippi,MS,2013,4,176.64,178.18
+traditional,purchase-only,quarterly,State,Mississippi,MS,2014,4,179.62,180.99
+traditional,purchase-only,quarterly,State,Mississippi,MS,2015,4,188.58,189.79
+traditional,purchase-only,quarterly,State,Mississippi,MS,2016,4,193.45,194.38
+traditional,purchase-only,quarterly,State,Mississippi,MS,2017,4,193.55,194.34
+traditional,purchase-only,quarterly,State,Mississippi,MS,2018,4,204.91,205.72
+traditional,purchase-only,quarterly,State,Mississippi,MS,2019,4,211.36,212.44
+traditional,purchase-only,quarterly,State,Mississippi,MS,2020,4,228.27,229.69
+traditional,purchase-only,quarterly,State,Mississippi,MS,2021,4,264.12,266.1
+traditional,purchase-only,quarterly,State,Mississippi,MS,2022,4,282.69,284.92
+traditional,purchase-only,quarterly,State,Mississippi,MS,2023,4,313.92,316.59
+traditional,purchase-only,quarterly,State,Mississippi,MS,2024,4,311.0,313.58
+traditional,purchase-only,quarterly,State,Montana,MT,1991,4,110.59,109.27
+traditional,purchase-only,quarterly,State,Montana,MT,1992,4,121.12,119.75
+traditional,purchase-only,quarterly,State,Montana,MT,1993,4,136.52,135.24
+traditional,purchase-only,quarterly,State,Montana,MT,1994,4,146.8,145.72
+traditional,purchase-only,quarterly,State,Montana,MT,1995,4,153.34,152.5
+traditional,purchase-only,quarterly,State,Montana,MT,1996,4,158.1,157.44
+traditional,purchase-only,quarterly,State,Montana,MT,1997,4,161.09,160.6
+traditional,purchase-only,quarterly,State,Montana,MT,1998,4,165.53,165.05
+traditional,purchase-only,quarterly,State,Montana,MT,1999,4,172.03,171.47
+traditional,purchase-only,quarterly,State,Montana,MT,2000,4,178.28,177.7
+traditional,purchase-only,quarterly,State,Montana,MT,2001,4,189.54,189.03
+traditional,purchase-only,quarterly,State,Montana,MT,2002,4,202.48,202.04
+traditional,purchase-only,quarterly,State,Montana,MT,2003,4,221.39,221.01
+traditional,purchase-only,quarterly,State,Montana,MT,2004,4,243.59,243.25
+traditional,purchase-only,quarterly,State,Montana,MT,2005,4,273.77,273.51
+traditional,purchase-only,quarterly,State,Montana,MT,2006,4,300.04,299.78
+traditional,purchase-only,quarterly,State,Montana,MT,2007,4,314.53,314.3
+traditional,purchase-only,quarterly,State,Montana,MT,2008,4,298.9,298.52
+traditional,purchase-only,quarterly,State,Montana,MT,2009,4,296.19,295.63
+traditional,purchase-only,quarterly,State,Montana,MT,2010,4,277.59,276.7
+traditional,purchase-only,quarterly,State,Montana,MT,2011,4,285.72,284.59
+traditional,purchase-only,quarterly,State,Montana,MT,2012,4,299.23,297.82
+traditional,purchase-only,quarterly,State,Montana,MT,2013,4,311.57,310.11
+traditional,purchase-only,quarterly,State,Montana,MT,2014,4,323.49,322.08
+traditional,purchase-only,quarterly,State,Montana,MT,2015,4,336.03,334.92
+traditional,purchase-only,quarterly,State,Montana,MT,2016,4,358.06,357.19
+traditional,purchase-only,quarterly,State,Montana,MT,2017,4,372.68,371.92
+traditional,purchase-only,quarterly,State,Montana,MT,2018,4,389.72,389.21
+traditional,purchase-only,quarterly,State,Montana,MT,2019,4,415.97,415.58
+traditional,purchase-only,quarterly,State,Montana,MT,2020,4,479.33,479.01
+traditional,purchase-only,quarterly,State,Montana,MT,2021,4,594.92,593.86
+traditional,purchase-only,quarterly,State,Montana,MT,2022,4,659.95,658.34
+traditional,purchase-only,quarterly,State,Montana,MT,2023,4,687.34,684.76
+traditional,purchase-only,quarterly,State,Montana,MT,2024,4,736.78,733.49
+traditional,purchase-only,quarterly,State,North Carolina,NC,1991,4,101.53,100.96
+traditional,purchase-only,quarterly,State,North Carolina,NC,1992,4,104.63,104.07
+traditional,purchase-only,quarterly,State,North Carolina,NC,1993,4,108.26,107.74
+traditional,purchase-only,quarterly,State,North Carolina,NC,1994,4,114.65,114.2
+traditional,purchase-only,quarterly,State,North Carolina,NC,1995,4,119.27,118.89
+traditional,purchase-only,quarterly,State,North Carolina,NC,1996,4,124.43,124.1
+traditional,purchase-only,quarterly,State,North Carolina,NC,1997,4,129.56,129.29
+traditional,purchase-only,quarterly,State,North Carolina,NC,1998,4,134.84,134.63
+traditional,purchase-only,quarterly,State,North Carolina,NC,1999,4,140.61,140.47
+traditional,purchase-only,quarterly,State,North Carolina,NC,2000,4,145.56,145.49
+traditional,purchase-only,quarterly,State,North Carolina,NC,2001,4,149.18,149.18
+traditional,purchase-only,quarterly,State,North Carolina,NC,2002,4,154.45,154.47
+traditional,purchase-only,quarterly,State,North Carolina,NC,2003,4,159.08,159.05
+traditional,purchase-only,quarterly,State,North Carolina,NC,2004,4,168.56,168.47
+traditional,purchase-only,quarterly,State,North Carolina,NC,2005,4,181.8,181.67
+traditional,purchase-only,quarterly,State,North Carolina,NC,2006,4,195.41,195.26
+traditional,purchase-only,quarterly,State,North Carolina,NC,2007,4,198.82,198.57
+traditional,purchase-only,quarterly,State,North Carolina,NC,2008,4,191.0,190.61
+traditional,purchase-only,quarterly,State,North Carolina,NC,2009,4,187.25,186.8
+traditional,purchase-only,quarterly,State,North Carolina,NC,2010,4,179.82,179.45
+traditional,purchase-only,quarterly,State,North Carolina,NC,2011,4,173.63,173.48
+traditional,purchase-only,quarterly,State,North Carolina,NC,2012,4,172.7,172.85
+traditional,purchase-only,quarterly,State,North Carolina,NC,2013,4,180.73,181.25
+traditional,purchase-only,quarterly,State,North Carolina,NC,2014,4,185.7,186.48
+traditional,purchase-only,quarterly,State,North Carolina,NC,2015,4,197.57,198.48
+traditional,purchase-only,quarterly,State,North Carolina,NC,2016,4,209.74,210.58
+traditional,purchase-only,quarterly,State,North Carolina,NC,2017,4,223.5,224.21
+traditional,purchase-only,quarterly,State,North Carolina,NC,2018,4,237.81,238.48
+traditional,purchase-only,quarterly,State,North Carolina,NC,2019,4,253.67,254.45
+traditional,purchase-only,quarterly,State,North Carolina,NC,2020,4,283.99,285.17
+traditional,purchase-only,quarterly,State,North Carolina,NC,2021,4,344.04,345.77
+traditional,purchase-only,quarterly,State,North Carolina,NC,2022,4,388.03,390.38
+traditional,purchase-only,quarterly,State,North Carolina,NC,2023,4,413.47,416.14
+traditional,purchase-only,quarterly,State,North Carolina,NC,2024,4,434.88,437.74
+traditional,purchase-only,quarterly,State,North Dakota,ND,1991,4,100.55,100.51
+traditional,purchase-only,quarterly,State,North Dakota,ND,1992,4,105.83,105.8
+traditional,purchase-only,quarterly,State,North Dakota,ND,1993,4,113.96,113.93
+traditional,purchase-only,quarterly,State,North Dakota,ND,1994,4,119.34,119.32
+traditional,purchase-only,quarterly,State,North Dakota,ND,1995,4,123.17,123.16
+traditional,purchase-only,quarterly,State,North Dakota,ND,1996,4,126.07,126.09
+traditional,purchase-only,quarterly,State,North Dakota,ND,1997,4,128.75,128.81
+traditional,purchase-only,quarterly,State,North Dakota,ND,1998,4,135.68,135.7
+traditional,purchase-only,quarterly,State,North Dakota,ND,1999,4,135.76,135.66
+traditional,purchase-only,quarterly,State,North Dakota,ND,2000,4,138.0,137.71
+traditional,purchase-only,quarterly,State,North Dakota,ND,2001,4,146.91,146.46
+traditional,purchase-only,quarterly,State,North Dakota,ND,2002,4,156.38,155.79
+traditional,purchase-only,quarterly,State,North Dakota,ND,2003,4,164.16,163.57
+traditional,purchase-only,quarterly,State,North Dakota,ND,2004,4,175.98,175.59
+traditional,purchase-only,quarterly,State,North Dakota,ND,2005,4,190.69,190.64
+traditional,purchase-only,quarterly,State,North Dakota,ND,2006,4,199.63,199.76
+traditional,purchase-only,quarterly,State,North Dakota,ND,2007,4,205.76,205.82
+traditional,purchase-only,quarterly,State,North Dakota,ND,2008,4,209.56,209.46
+traditional,purchase-only,quarterly,State,North Dakota,ND,2009,4,215.06,214.64
+traditional,purchase-only,quarterly,State,North Dakota,ND,2010,4,222.13,221.52
+traditional,purchase-only,quarterly,State,North Dakota,ND,2011,4,230.62,229.85
+traditional,purchase-only,quarterly,State,North Dakota,ND,2012,4,252.79,252.09
+traditional,purchase-only,quarterly,State,North Dakota,ND,2013,4,267.82,267.16
+traditional,purchase-only,quarterly,State,North Dakota,ND,2014,4,289.69,289.28
+traditional,purchase-only,quarterly,State,North Dakota,ND,2015,4,297.13,297.0
+traditional,purchase-only,quarterly,State,North Dakota,ND,2016,4,301.51,301.8
+traditional,purchase-only,quarterly,State,North Dakota,ND,2017,4,301.46,301.93
+traditional,purchase-only,quarterly,State,North Dakota,ND,2018,4,308.55,309.18
+traditional,purchase-only,quarterly,State,North Dakota,ND,2019,4,314.96,315.59
+traditional,purchase-only,quarterly,State,North Dakota,ND,2020,4,336.75,337.27
+traditional,purchase-only,quarterly,State,North Dakota,ND,2021,4,372.08,372.37
+traditional,purchase-only,quarterly,State,North Dakota,ND,2022,4,393.47,393.63
+traditional,purchase-only,quarterly,State,North Dakota,ND,2023,4,413.19,413.39
+traditional,purchase-only,quarterly,State,North Dakota,ND,2024,4,426.53,426.82
+traditional,purchase-only,quarterly,State,Nebraska,NE,1991,4,101.99,101.8
+traditional,purchase-only,quarterly,State,Nebraska,NE,1992,4,110.57,110.38
+traditional,purchase-only,quarterly,State,Nebraska,NE,1993,4,120.01,119.87
+traditional,purchase-only,quarterly,State,Nebraska,NE,1994,4,123.61,123.49
+traditional,purchase-only,quarterly,State,Nebraska,NE,1995,4,130.31,130.25
+traditional,purchase-only,quarterly,State,Nebraska,NE,1996,4,136.47,136.45
+traditional,purchase-only,quarterly,State,Nebraska,NE,1997,4,144.06,144.09
+traditional,purchase-only,quarterly,State,Nebraska,NE,1998,4,153.32,153.36
+traditional,purchase-only,quarterly,State,Nebraska,NE,1999,4,156.36,156.42
+traditional,purchase-only,quarterly,State,Nebraska,NE,2000,4,161.51,161.61
+traditional,purchase-only,quarterly,State,Nebraska,NE,2001,4,165.93,166.07
+traditional,purchase-only,quarterly,State,Nebraska,NE,2002,4,172.84,173.01
+traditional,purchase-only,quarterly,State,Nebraska,NE,2003,4,179.36,179.56
+traditional,purchase-only,quarterly,State,Nebraska,NE,2004,4,187.53,187.78
+traditional,purchase-only,quarterly,State,Nebraska,NE,2005,4,192.63,192.89
+traditional,purchase-only,quarterly,State,Nebraska,NE,2006,4,195.87,196.09
+traditional,purchase-only,quarterly,State,Nebraska,NE,2007,4,195.69,195.94
+traditional,purchase-only,quarterly,State,Nebraska,NE,2008,4,190.44,190.71
+traditional,purchase-only,quarterly,State,Nebraska,NE,2009,4,192.62,192.92
+traditional,purchase-only,quarterly,State,Nebraska,NE,2010,4,186.42,186.65
+traditional,purchase-only,quarterly,State,Nebraska,NE,2011,4,189.29,189.52
+traditional,purchase-only,quarterly,State,Nebraska,NE,2012,4,198.26,198.5
+traditional,purchase-only,quarterly,State,Nebraska,NE,2013,4,204.78,205.1
+traditional,purchase-only,quarterly,State,Nebraska,NE,2014,4,211.92,212.37
+traditional,purchase-only,quarterly,State,Nebraska,NE,2015,4,221.6,222.31
+traditional,purchase-only,quarterly,State,Nebraska,NE,2016,4,230.33,231.29
+traditional,purchase-only,quarterly,State,Nebraska,NE,2017,4,248.16,249.37
+traditional,purchase-only,quarterly,State,Nebraska,NE,2018,4,261.43,262.82
+traditional,purchase-only,quarterly,State,Nebraska,NE,2019,4,272.67,274.24
+traditional,purchase-only,quarterly,State,Nebraska,NE,2020,4,303.71,305.68
+traditional,purchase-only,quarterly,State,Nebraska,NE,2021,4,347.72,350.14
+traditional,purchase-only,quarterly,State,Nebraska,NE,2022,4,377.28,380.1
+traditional,purchase-only,quarterly,State,Nebraska,NE,2023,4,395.44,398.39
+traditional,purchase-only,quarterly,State,Nebraska,NE,2024,4,422.72,425.96
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1991,4,95.3,95.55
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1992,4,93.46,93.7
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1993,4,93.05,93.27
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1994,4,93.73,94.01
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1995,4,95.63,95.94
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1996,4,97.95,98.38
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1997,4,103.72,104.2
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1998,4,113.31,113.84
+traditional,purchase-only,quarterly,State,New Hampshire,NH,1999,4,124.95,125.48
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2000,4,145.71,146.29
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2001,4,163.15,163.77
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2002,4,183.95,184.67
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2003,4,203.04,203.99
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2004,4,222.39,223.69
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2005,4,236.02,237.68
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2006,4,227.96,229.54
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2007,4,219.8,221.1
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2008,4,202.53,203.27
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2009,4,199.96,200.27
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2010,4,193.53,193.61
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2011,4,189.47,189.79
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2012,4,187.19,187.99
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2013,4,193.13,194.62
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2014,4,199.0,201.0
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2015,4,210.05,212.36
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2016,4,219.48,221.77
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2017,4,235.98,238.19
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2018,4,249.54,251.85
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2019,4,262.82,265.43
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2020,4,300.64,304.12
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2021,4,355.39,359.99
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2022,4,388.94,394.47
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2023,4,425.22,431.28
+traditional,purchase-only,quarterly,State,New Hampshire,NH,2024,4,457.21,463.68
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1991,4,99.5,99.69
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1992,4,101.22,101.46
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1993,4,101.55,101.9
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1994,4,101.03,101.5
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1995,4,101.08,101.63
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1996,4,102.04,102.62
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1997,4,104.46,105.09
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1998,4,109.7,110.38
+traditional,purchase-only,quarterly,State,New Jersey,NJ,1999,4,118.78,119.49
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2000,4,132.07,132.7
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2001,4,148.06,148.61
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2002,4,171.45,171.96
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2003,4,193.69,194.26
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2004,4,222.27,223.03
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2005,4,251.3,252.32
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2006,4,253.18,254.3
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2007,4,247.59,248.58
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2008,4,226.73,227.42
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2009,4,216.63,217.1
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2010,4,210.91,211.32
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2011,4,198.94,199.5
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2012,4,197.69,198.47
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2013,4,203.46,204.45
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2014,4,207.77,208.83
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2015,4,210.57,211.72
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2016,4,216.4,217.69
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2017,4,224.12,225.54
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2018,4,232.14,233.42
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2019,4,243.05,244.17
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2020,4,272.49,273.87
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2021,4,313.77,316.04
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2022,4,338.9,342.08
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2023,4,378.06,381.75
+traditional,purchase-only,quarterly,State,New Jersey,NJ,2024,4,410.66,414.28
+traditional,purchase-only,quarterly,State,New Mexico,NM,1991,4,103.71,103.53
+traditional,purchase-only,quarterly,State,New Mexico,NM,1992,4,110.3,110.16
+traditional,purchase-only,quarterly,State,New Mexico,NM,1993,4,120.48,120.35
+traditional,purchase-only,quarterly,State,New Mexico,NM,1994,4,133.16,133.03
+traditional,purchase-only,quarterly,State,New Mexico,NM,1995,4,136.68,136.56
+traditional,purchase-only,quarterly,State,New Mexico,NM,1996,4,138.22,138.13
+traditional,purchase-only,quarterly,State,New Mexico,NM,1997,4,138.88,138.83
+traditional,purchase-only,quarterly,State,New Mexico,NM,1998,4,143.25,143.2
+traditional,purchase-only,quarterly,State,New Mexico,NM,1999,4,145.68,145.61
+traditional,purchase-only,quarterly,State,New Mexico,NM,2000,4,145.46,145.38
+traditional,purchase-only,quarterly,State,New Mexico,NM,2001,4,151.0,150.86
+traditional,purchase-only,quarterly,State,New Mexico,NM,2002,4,161.29,161.12
+traditional,purchase-only,quarterly,State,New Mexico,NM,2003,4,171.41,171.22
+traditional,purchase-only,quarterly,State,New Mexico,NM,2004,4,186.62,186.36
+traditional,purchase-only,quarterly,State,New Mexico,NM,2005,4,214.62,214.18
+traditional,purchase-only,quarterly,State,New Mexico,NM,2006,4,238.4,237.75
+traditional,purchase-only,quarterly,State,New Mexico,NM,2007,4,239.85,239.1
+traditional,purchase-only,quarterly,State,New Mexico,NM,2008,4,230.82,230.08
+traditional,purchase-only,quarterly,State,New Mexico,NM,2009,4,222.5,221.73
+traditional,purchase-only,quarterly,State,New Mexico,NM,2010,4,210.95,210.16
+traditional,purchase-only,quarterly,State,New Mexico,NM,2011,4,200.61,199.76
+traditional,purchase-only,quarterly,State,New Mexico,NM,2012,4,202.18,201.22
+traditional,purchase-only,quarterly,State,New Mexico,NM,2013,4,206.57,205.51
+traditional,purchase-only,quarterly,State,New Mexico,NM,2014,4,211.66,210.62
+traditional,purchase-only,quarterly,State,New Mexico,NM,2015,4,215.49,214.48
+traditional,purchase-only,quarterly,State,New Mexico,NM,2016,4,223.28,222.33
+traditional,purchase-only,quarterly,State,New Mexico,NM,2017,4,234.56,233.61
+traditional,purchase-only,quarterly,State,New Mexico,NM,2018,4,243.78,242.97
+traditional,purchase-only,quarterly,State,New Mexico,NM,2019,4,257.19,256.55
+traditional,purchase-only,quarterly,State,New Mexico,NM,2020,4,287.2,286.77
+traditional,purchase-only,quarterly,State,New Mexico,NM,2021,4,330.13,329.94
+traditional,purchase-only,quarterly,State,New Mexico,NM,2022,4,362.48,362.64
+traditional,purchase-only,quarterly,State,New Mexico,NM,2023,4,382.61,383.1
+traditional,purchase-only,quarterly,State,New Mexico,NM,2024,4,403.88,404.66
+traditional,purchase-only,quarterly,State,Nevada,NV,1991,4,102.18,101.38
+traditional,purchase-only,quarterly,State,Nevada,NV,1992,4,104.58,103.81
+traditional,purchase-only,quarterly,State,Nevada,NV,1993,4,106.66,105.97
+traditional,purchase-only,quarterly,State,Nevada,NV,1994,4,110.26,109.66
+traditional,purchase-only,quarterly,State,Nevada,NV,1995,4,113.69,113.17
+traditional,purchase-only,quarterly,State,Nevada,NV,1996,4,115.82,115.32
+traditional,purchase-only,quarterly,State,Nevada,NV,1997,4,117.76,117.22
+traditional,purchase-only,quarterly,State,Nevada,NV,1998,4,120.09,119.5
+traditional,purchase-only,quarterly,State,Nevada,NV,1999,4,123.99,123.36
+traditional,purchase-only,quarterly,State,Nevada,NV,2000,4,128.71,128.04
+traditional,purchase-only,quarterly,State,Nevada,NV,2001,4,138.41,137.74
+traditional,purchase-only,quarterly,State,Nevada,NV,2002,4,150.06,149.43
+traditional,purchase-only,quarterly,State,Nevada,NV,2003,4,174.64,174.06
+traditional,purchase-only,quarterly,State,Nevada,NV,2004,4,230.47,229.88
+traditional,purchase-only,quarterly,State,Nevada,NV,2005,4,268.66,268.3
+traditional,purchase-only,quarterly,State,Nevada,NV,2006,4,266.17,266.1
+traditional,purchase-only,quarterly,State,Nevada,NV,2007,4,234.59,234.7
+traditional,purchase-only,quarterly,State,Nevada,NV,2008,4,161.48,161.62
+traditional,purchase-only,quarterly,State,Nevada,NV,2009,4,134.54,134.72
+traditional,purchase-only,quarterly,State,Nevada,NV,2010,4,124.46,124.65
+traditional,purchase-only,quarterly,State,Nevada,NV,2011,4,111.11,111.25
+traditional,purchase-only,quarterly,State,Nevada,NV,2012,4,131.65,131.8
+traditional,purchase-only,quarterly,State,Nevada,NV,2013,4,160.43,160.52
+traditional,purchase-only,quarterly,State,Nevada,NV,2014,4,175.65,175.54
+traditional,purchase-only,quarterly,State,Nevada,NV,2015,4,193.7,193.34
+traditional,purchase-only,quarterly,State,Nevada,NV,2016,4,212.01,211.55
+traditional,purchase-only,quarterly,State,Nevada,NV,2017,4,237.34,236.81
+traditional,purchase-only,quarterly,State,Nevada,NV,2018,4,261.32,260.99
+traditional,purchase-only,quarterly,State,Nevada,NV,2019,4,272.89,272.85
+traditional,purchase-only,quarterly,State,Nevada,NV,2020,4,301.76,302.21
+traditional,purchase-only,quarterly,State,Nevada,NV,2021,4,372.36,372.99
+traditional,purchase-only,quarterly,State,Nevada,NV,2022,4,383.82,384.42
+traditional,purchase-only,quarterly,State,Nevada,NV,2023,4,397.72,397.88
+traditional,purchase-only,quarterly,State,Nevada,NV,2024,4,425.27,425.17
+traditional,purchase-only,quarterly,State,New York,NY,1991,4,100.56,100.08
+traditional,purchase-only,quarterly,State,New York,NY,1992,4,102.61,102.15
+traditional,purchase-only,quarterly,State,New York,NY,1993,4,100.75,100.36
+traditional,purchase-only,quarterly,State,New York,NY,1994,4,98.66,98.32
+traditional,purchase-only,quarterly,State,New York,NY,1995,4,98.52,98.22
+traditional,purchase-only,quarterly,State,New York,NY,1996,4,99.19,98.88
+traditional,purchase-only,quarterly,State,New York,NY,1997,4,101.54,101.17
+traditional,purchase-only,quarterly,State,New York,NY,1998,4,108.15,107.65
+traditional,purchase-only,quarterly,State,New York,NY,1999,4,117.43,116.81
+traditional,purchase-only,quarterly,State,New York,NY,2000,4,129.05,128.3
+traditional,purchase-only,quarterly,State,New York,NY,2001,4,142.32,141.43
+traditional,purchase-only,quarterly,State,New York,NY,2002,4,159.13,158.12
+traditional,purchase-only,quarterly,State,New York,NY,2003,4,178.49,177.36
+traditional,purchase-only,quarterly,State,New York,NY,2004,4,197.49,196.28
+traditional,purchase-only,quarterly,State,New York,NY,2005,4,213.06,211.85
+traditional,purchase-only,quarterly,State,New York,NY,2006,4,216.12,215.03
+traditional,purchase-only,quarterly,State,New York,NY,2007,4,216.02,215.04
+traditional,purchase-only,quarterly,State,New York,NY,2008,4,207.05,206.2
+traditional,purchase-only,quarterly,State,New York,NY,2009,4,203.47,202.69
+traditional,purchase-only,quarterly,State,New York,NY,2010,4,201.84,201.11
+traditional,purchase-only,quarterly,State,New York,NY,2011,4,194.14,193.42
+traditional,purchase-only,quarterly,State,New York,NY,2012,4,195.8,195.05
+traditional,purchase-only,quarterly,State,New York,NY,2013,4,200.59,199.77
+traditional,purchase-only,quarterly,State,New York,NY,2014,4,203.32,202.46
+traditional,purchase-only,quarterly,State,New York,NY,2015,4,208.62,207.67
+traditional,purchase-only,quarterly,State,New York,NY,2016,4,218.59,217.61
+traditional,purchase-only,quarterly,State,New York,NY,2017,4,229.82,228.76
+traditional,purchase-only,quarterly,State,New York,NY,2018,4,240.68,239.7
+traditional,purchase-only,quarterly,State,New York,NY,2019,4,252.14,251.29
+traditional,purchase-only,quarterly,State,New York,NY,2020,4,279.35,278.79
+traditional,purchase-only,quarterly,State,New York,NY,2021,4,316.68,316.36
+traditional,purchase-only,quarterly,State,New York,NY,2022,4,341.59,341.68
+traditional,purchase-only,quarterly,State,New York,NY,2023,4,374.23,374.58
+traditional,purchase-only,quarterly,State,New York,NY,2024,4,400.78,401.3
+traditional,purchase-only,quarterly,State,Ohio,OH,1991,4,102.76,102.14
+traditional,purchase-only,quarterly,State,Ohio,OH,1992,4,107.79,107.15
+traditional,purchase-only,quarterly,State,Ohio,OH,1993,4,113.07,112.45
+traditional,purchase-only,quarterly,State,Ohio,OH,1994,4,117.94,117.38
+traditional,purchase-only,quarterly,State,Ohio,OH,1995,4,122.87,122.41
+traditional,purchase-only,quarterly,State,Ohio,OH,1996,4,127.66,127.26
+traditional,purchase-only,quarterly,State,Ohio,OH,1997,4,131.17,130.82
+traditional,purchase-only,quarterly,State,Ohio,OH,1998,4,136.74,136.4
+traditional,purchase-only,quarterly,State,Ohio,OH,1999,4,142.85,142.5
+traditional,purchase-only,quarterly,State,Ohio,OH,2000,4,148.19,147.8
+traditional,purchase-only,quarterly,State,Ohio,OH,2001,4,153.39,152.96
+traditional,purchase-only,quarterly,State,Ohio,OH,2002,4,159.12,158.66
+traditional,purchase-only,quarterly,State,Ohio,OH,2003,4,164.5,164.08
+traditional,purchase-only,quarterly,State,Ohio,OH,2004,4,169.64,169.34
+traditional,purchase-only,quarterly,State,Ohio,OH,2005,4,173.51,173.35
+traditional,purchase-only,quarterly,State,Ohio,OH,2006,4,172.56,172.56
+traditional,purchase-only,quarterly,State,Ohio,OH,2007,4,167.41,167.5
+traditional,purchase-only,quarterly,State,Ohio,OH,2008,4,155.51,155.64
+traditional,purchase-only,quarterly,State,Ohio,OH,2009,4,155.57,155.65
+traditional,purchase-only,quarterly,State,Ohio,OH,2010,4,149.26,149.34
+traditional,purchase-only,quarterly,State,Ohio,OH,2011,4,145.86,146.04
+traditional,purchase-only,quarterly,State,Ohio,OH,2012,4,149.2,149.49
+traditional,purchase-only,quarterly,State,Ohio,OH,2013,4,155.13,155.46
+traditional,purchase-only,quarterly,State,Ohio,OH,2014,4,161.69,161.91
+traditional,purchase-only,quarterly,State,Ohio,OH,2015,4,167.88,168.1
+traditional,purchase-only,quarterly,State,Ohio,OH,2016,4,176.49,176.83
+traditional,purchase-only,quarterly,State,Ohio,OH,2017,4,186.83,187.35
+traditional,purchase-only,quarterly,State,Ohio,OH,2018,4,197.89,198.45
+traditional,purchase-only,quarterly,State,Ohio,OH,2019,4,210.57,211.18
+traditional,purchase-only,quarterly,State,Ohio,OH,2020,4,236.37,237.2
+traditional,purchase-only,quarterly,State,Ohio,OH,2021,4,268.61,269.81
+traditional,purchase-only,quarterly,State,Ohio,OH,2022,4,291.17,292.58
+traditional,purchase-only,quarterly,State,Ohio,OH,2023,4,317.4,318.82
+traditional,purchase-only,quarterly,State,Ohio,OH,2024,4,338.83,340.19
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1991,4,102.35,101.3
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1992,4,105.57,104.51
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1993,4,111.61,110.55
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1994,4,115.96,114.97
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1995,4,119.01,118.1
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1996,4,122.43,121.62
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1997,4,125.97,125.21
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1998,4,132.81,132.07
+traditional,purchase-only,quarterly,State,Oklahoma,OK,1999,4,138.24,137.45
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2000,4,144.19,143.37
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2001,4,148.98,148.13
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2002,4,155.48,154.65
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2003,4,160.99,160.17
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2004,4,167.72,167.01
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2005,4,177.45,176.88
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2006,4,185.19,184.83
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2007,4,193.68,193.45
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2008,4,187.61,187.39
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2009,4,191.55,191.3
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2010,4,191.07,190.85
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2011,4,190.16,190.07
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2012,4,195.89,195.92
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2013,4,198.69,198.95
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2014,4,206.16,206.56
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2015,4,216.64,217.1
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2016,4,220.17,220.51
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2017,4,229.18,229.42
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2018,4,237.8,237.93
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2019,4,247.94,247.97
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2020,4,271.24,271.16
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2021,4,315.22,314.96
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2022,4,345.78,345.44
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2023,4,361.72,361.26
+traditional,purchase-only,quarterly,State,Oklahoma,OK,2024,4,377.18,376.79
+traditional,purchase-only,quarterly,State,Oregon,OR,1991,4,105.41,105.33
+traditional,purchase-only,quarterly,State,Oregon,OR,1992,4,115.02,114.95
+traditional,purchase-only,quarterly,State,Oregon,OR,1993,4,125.85,125.82
+traditional,purchase-only,quarterly,State,Oregon,OR,1994,4,138.21,138.25
+traditional,purchase-only,quarterly,State,Oregon,OR,1995,4,148.01,148.14
+traditional,purchase-only,quarterly,State,Oregon,OR,1996,4,158.59,158.85
+traditional,purchase-only,quarterly,State,Oregon,OR,1997,4,165.5,165.82
+traditional,purchase-only,quarterly,State,Oregon,OR,1998,4,171.1,171.42
+traditional,purchase-only,quarterly,State,Oregon,OR,1999,4,176.36,176.65
+traditional,purchase-only,quarterly,State,Oregon,OR,2000,4,183.28,183.51
+traditional,purchase-only,quarterly,State,Oregon,OR,2001,4,191.92,192.05
+traditional,purchase-only,quarterly,State,Oregon,OR,2002,4,203.6,203.6
+traditional,purchase-only,quarterly,State,Oregon,OR,2003,4,219.97,219.91
+traditional,purchase-only,quarterly,State,Oregon,OR,2004,4,247.69,247.64
+traditional,purchase-only,quarterly,State,Oregon,OR,2005,4,294.86,295.03
+traditional,purchase-only,quarterly,State,Oregon,OR,2006,4,324.24,324.53
+traditional,purchase-only,quarterly,State,Oregon,OR,2007,4,326.99,327.4
+traditional,purchase-only,quarterly,State,Oregon,OR,2008,4,297.48,297.66
+traditional,purchase-only,quarterly,State,Oregon,OR,2009,4,275.66,275.93
+traditional,purchase-only,quarterly,State,Oregon,OR,2010,4,251.03,251.32
+traditional,purchase-only,quarterly,State,Oregon,OR,2011,4,242.61,243.18
+traditional,purchase-only,quarterly,State,Oregon,OR,2012,4,255.64,256.53
+traditional,purchase-only,quarterly,State,Oregon,OR,2013,4,284.03,285.52
+traditional,purchase-only,quarterly,State,Oregon,OR,2014,4,303.13,305.03
+traditional,purchase-only,quarterly,State,Oregon,OR,2015,4,334.51,336.83
+traditional,purchase-only,quarterly,State,Oregon,OR,2016,4,369.49,372.22
+traditional,purchase-only,quarterly,State,Oregon,OR,2017,4,393.02,396.11
+traditional,purchase-only,quarterly,State,Oregon,OR,2018,4,416.4,420.15
+traditional,purchase-only,quarterly,State,Oregon,OR,2019,4,439.91,444.24
+traditional,purchase-only,quarterly,State,Oregon,OR,2020,4,491.27,496.82
+traditional,purchase-only,quarterly,State,Oregon,OR,2021,4,576.29,583.23
+traditional,purchase-only,quarterly,State,Oregon,OR,2022,4,596.04,603.86
+traditional,purchase-only,quarterly,State,Oregon,OR,2023,4,604.44,612.4
+traditional,purchase-only,quarterly,State,Oregon,OR,2024,4,622.8,630.97
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1991,4,101.54,100.87
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1992,4,102.97,102.33
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1993,4,104.73,104.14
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1994,4,104.96,104.45
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1995,4,105.35,104.93
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1996,4,106.21,105.87
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1997,4,107.65,107.38
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1998,4,110.99,110.75
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,1999,4,115.23,115.0
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2000,4,121.15,120.94
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2001,4,129.37,129.15
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2002,4,140.97,140.77
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2003,4,152.55,152.34
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2004,4,171.09,170.94
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2005,4,188.8,188.71
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2006,4,196.41,196.38
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2007,4,198.06,198.03
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2008,4,189.02,189.01
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2009,4,187.64,187.65
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2010,4,183.1,183.19
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2011,4,177.52,177.71
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2012,4,181.39,181.74
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2013,4,186.22,186.71
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2014,4,189.37,190.01
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2015,4,194.8,195.56
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2016,4,202.51,203.37
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2017,4,211.77,212.65
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2018,4,221.67,222.57
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2019,4,232.96,233.89
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2020,4,258.31,259.37
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2021,4,292.53,293.76
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2022,4,314.66,316.16
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2023,4,336.35,338.06
+traditional,purchase-only,quarterly,State,Pennsylvania,PA,2024,4,357.9,359.8
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1991,4,96.76,96.16
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1992,4,96.49,95.92
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1993,4,92.68,92.2
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1994,4,91.83,91.42
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1995,4,91.97,91.62
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1996,4,90.26,89.91
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1997,4,92.64,92.27
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1998,4,97.56,97.14
+traditional,purchase-only,quarterly,State,Rhode Island,RI,1999,4,106.26,105.83
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2000,4,119.74,119.28
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2001,4,137.98,137.51
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2002,4,165.09,164.56
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2003,4,192.2,191.56
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2004,4,220.04,219.16
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2005,4,235.91,234.7
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2006,4,232.5,231.02
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2007,4,220.67,219.07
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2008,4,194.41,192.9
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2009,4,187.83,186.37
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2010,4,181.61,180.29
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2011,4,172.48,171.38
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2012,4,170.87,169.89
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2013,4,176.23,175.35
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2014,4,185.33,184.56
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2015,4,192.71,192.2
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2016,4,203.74,203.48
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2017,4,216.76,216.66
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2018,4,229.09,229.25
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2019,4,243.7,244.25
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2020,4,277.12,278.13
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2021,4,320.8,322.38
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2022,4,338.3,340.2
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2023,4,385.54,387.95
+traditional,purchase-only,quarterly,State,Rhode Island,RI,2024,4,413.75,416.09
+traditional,purchase-only,quarterly,State,South Carolina,SC,1991,4,102.56,102.23
+traditional,purchase-only,quarterly,State,South Carolina,SC,1992,4,105.79,105.52
+traditional,purchase-only,quarterly,State,South Carolina,SC,1993,4,108.3,108.11
+traditional,purchase-only,quarterly,State,South Carolina,SC,1994,4,111.56,111.46
+traditional,purchase-only,quarterly,State,South Carolina,SC,1995,4,114.86,114.82
+traditional,purchase-only,quarterly,State,South Carolina,SC,1996,4,121.95,121.95
+traditional,purchase-only,quarterly,State,South Carolina,SC,1997,4,125.23,125.24
+traditional,purchase-only,quarterly,State,South Carolina,SC,1998,4,131.73,131.76
+traditional,purchase-only,quarterly,State,South Carolina,SC,1999,4,138.82,138.86
+traditional,purchase-only,quarterly,State,South Carolina,SC,2000,4,144.94,145.02
+traditional,purchase-only,quarterly,State,South Carolina,SC,2001,4,149.8,149.86
+traditional,purchase-only,quarterly,State,South Carolina,SC,2002,4,155.66,155.66
+traditional,purchase-only,quarterly,State,South Carolina,SC,2003,4,160.46,160.29
+traditional,purchase-only,quarterly,State,South Carolina,SC,2004,4,170.93,170.71
+traditional,purchase-only,quarterly,State,South Carolina,SC,2005,4,185.58,185.42
+traditional,purchase-only,quarterly,State,South Carolina,SC,2006,4,197.06,197.17
+traditional,purchase-only,quarterly,State,South Carolina,SC,2007,4,199.26,199.5
+traditional,purchase-only,quarterly,State,South Carolina,SC,2008,4,189.28,189.54
+traditional,purchase-only,quarterly,State,South Carolina,SC,2009,4,185.47,185.71
+traditional,purchase-only,quarterly,State,South Carolina,SC,2010,4,179.17,179.44
+traditional,purchase-only,quarterly,State,South Carolina,SC,2011,4,172.89,173.26
+traditional,purchase-only,quarterly,State,South Carolina,SC,2012,4,171.71,172.3
+traditional,purchase-only,quarterly,State,South Carolina,SC,2013,4,179.98,180.93
+traditional,purchase-only,quarterly,State,South Carolina,SC,2014,4,188.88,190.12
+traditional,purchase-only,quarterly,State,South Carolina,SC,2015,4,202.21,203.54
+traditional,purchase-only,quarterly,State,South Carolina,SC,2016,4,212.56,213.77
+traditional,purchase-only,quarterly,State,South Carolina,SC,2017,4,225.61,226.69
+traditional,purchase-only,quarterly,State,South Carolina,SC,2018,4,240.51,241.51
+traditional,purchase-only,quarterly,State,South Carolina,SC,2019,4,254.17,255.21
+traditional,purchase-only,quarterly,State,South Carolina,SC,2020,4,280.6,281.78
+traditional,purchase-only,quarterly,State,South Carolina,SC,2021,4,340.08,341.4
+traditional,purchase-only,quarterly,State,South Carolina,SC,2022,4,380.98,382.13
+traditional,purchase-only,quarterly,State,South Carolina,SC,2023,4,414.75,415.63
+traditional,purchase-only,quarterly,State,South Carolina,SC,2024,4,437.14,437.68
+traditional,purchase-only,quarterly,State,South Dakota,SD,1991,4,102.61,102.81
+traditional,purchase-only,quarterly,State,South Dakota,SD,1992,4,111.13,111.35
+traditional,purchase-only,quarterly,State,South Dakota,SD,1993,4,120.32,120.62
+traditional,purchase-only,quarterly,State,South Dakota,SD,1994,4,127.85,128.25
+traditional,purchase-only,quarterly,State,South Dakota,SD,1995,4,132.03,132.49
+traditional,purchase-only,quarterly,State,South Dakota,SD,1996,4,137.14,137.65
+traditional,purchase-only,quarterly,State,South Dakota,SD,1997,4,141.38,141.9
+traditional,purchase-only,quarterly,State,South Dakota,SD,1998,4,145.55,146.12
+traditional,purchase-only,quarterly,State,South Dakota,SD,1999,4,153.15,153.83
+traditional,purchase-only,quarterly,State,South Dakota,SD,2000,4,159.52,160.34
+traditional,purchase-only,quarterly,State,South Dakota,SD,2001,4,168.44,169.32
+traditional,purchase-only,quarterly,State,South Dakota,SD,2002,4,173.62,174.46
+traditional,purchase-only,quarterly,State,South Dakota,SD,2003,4,183.46,184.28
+traditional,purchase-only,quarterly,State,South Dakota,SD,2004,4,193.01,193.8
+traditional,purchase-only,quarterly,State,South Dakota,SD,2005,4,207.3,208.16
+traditional,purchase-only,quarterly,State,South Dakota,SD,2006,4,213.46,214.35
+traditional,purchase-only,quarterly,State,South Dakota,SD,2007,4,219.89,220.85
+traditional,purchase-only,quarterly,State,South Dakota,SD,2008,4,219.07,219.97
+traditional,purchase-only,quarterly,State,South Dakota,SD,2009,4,221.63,222.44
+traditional,purchase-only,quarterly,State,South Dakota,SD,2010,4,214.78,215.47
+traditional,purchase-only,quarterly,State,South Dakota,SD,2011,4,220.79,221.46
+traditional,purchase-only,quarterly,State,South Dakota,SD,2012,4,225.39,226.06
+traditional,purchase-only,quarterly,State,South Dakota,SD,2013,4,236.98,237.67
+traditional,purchase-only,quarterly,State,South Dakota,SD,2014,4,245.9,246.56
+traditional,purchase-only,quarterly,State,South Dakota,SD,2015,4,254.41,255.1
+traditional,purchase-only,quarterly,State,South Dakota,SD,2016,4,266.69,267.5
+traditional,purchase-only,quarterly,State,South Dakota,SD,2017,4,279.92,281.0
+traditional,purchase-only,quarterly,State,South Dakota,SD,2018,4,297.53,298.96
+traditional,purchase-only,quarterly,State,South Dakota,SD,2019,4,309.17,310.9
+traditional,purchase-only,quarterly,State,South Dakota,SD,2020,4,339.22,341.3
+traditional,purchase-only,quarterly,State,South Dakota,SD,2021,4,401.17,403.69
+traditional,purchase-only,quarterly,State,South Dakota,SD,2022,4,438.13,440.97
+traditional,purchase-only,quarterly,State,South Dakota,SD,2023,4,466.24,469.42
+traditional,purchase-only,quarterly,State,South Dakota,SD,2024,4,483.58,487.04
+traditional,purchase-only,quarterly,State,Tennessee,TN,1991,4,101.72,101.55
+traditional,purchase-only,quarterly,State,Tennessee,TN,1992,4,104.74,104.58
+traditional,purchase-only,quarterly,State,Tennessee,TN,1993,4,109.72,109.59
+traditional,purchase-only,quarterly,State,Tennessee,TN,1994,4,115.61,115.52
+traditional,purchase-only,quarterly,State,Tennessee,TN,1995,4,122.66,122.64
+traditional,purchase-only,quarterly,State,Tennessee,TN,1996,4,127.76,127.74
+traditional,purchase-only,quarterly,State,Tennessee,TN,1997,4,131.73,131.69
+traditional,purchase-only,quarterly,State,Tennessee,TN,1998,4,137.77,137.68
+traditional,purchase-only,quarterly,State,Tennessee,TN,1999,4,143.34,143.23
+traditional,purchase-only,quarterly,State,Tennessee,TN,2000,4,146.63,146.47
+traditional,purchase-only,quarterly,State,Tennessee,TN,2001,4,150.88,150.75
+traditional,purchase-only,quarterly,State,Tennessee,TN,2002,4,154.86,154.75
+traditional,purchase-only,quarterly,State,Tennessee,TN,2003,4,162.41,162.4
+traditional,purchase-only,quarterly,State,Tennessee,TN,2004,4,170.31,170.36
+traditional,purchase-only,quarterly,State,Tennessee,TN,2005,4,184.01,184.18
+traditional,purchase-only,quarterly,State,Tennessee,TN,2006,4,195.59,195.78
+traditional,purchase-only,quarterly,State,Tennessee,TN,2007,4,199.31,199.43
+traditional,purchase-only,quarterly,State,Tennessee,TN,2008,4,190.24,190.14
+traditional,purchase-only,quarterly,State,Tennessee,TN,2009,4,186.85,186.64
+traditional,purchase-only,quarterly,State,Tennessee,TN,2010,4,179.96,179.71
+traditional,purchase-only,quarterly,State,Tennessee,TN,2011,4,177.97,177.83
+traditional,purchase-only,quarterly,State,Tennessee,TN,2012,4,183.07,183.14
+traditional,purchase-only,quarterly,State,Tennessee,TN,2013,4,191.39,191.77
+traditional,purchase-only,quarterly,State,Tennessee,TN,2014,4,199.34,199.92
+traditional,purchase-only,quarterly,State,Tennessee,TN,2015,4,211.22,211.86
+traditional,purchase-only,quarterly,State,Tennessee,TN,2016,4,226.62,227.22
+traditional,purchase-only,quarterly,State,Tennessee,TN,2017,4,244.3,244.81
+traditional,purchase-only,quarterly,State,Tennessee,TN,2018,4,261.13,261.64
+traditional,purchase-only,quarterly,State,Tennessee,TN,2019,4,279.1,279.77
+traditional,purchase-only,quarterly,State,Tennessee,TN,2020,4,313.69,314.67
+traditional,purchase-only,quarterly,State,Tennessee,TN,2021,4,386.76,388.08
+traditional,purchase-only,quarterly,State,Tennessee,TN,2022,4,427.63,429.02
+traditional,purchase-only,quarterly,State,Tennessee,TN,2023,4,454.59,455.86
+traditional,purchase-only,quarterly,State,Tennessee,TN,2024,4,475.63,476.67
+traditional,purchase-only,quarterly,State,Texas,TX,1991,4,100.56,100.05
+traditional,purchase-only,quarterly,State,Texas,TX,1992,4,104.11,103.6
+traditional,purchase-only,quarterly,State,Texas,TX,1993,4,107.9,107.4
+traditional,purchase-only,quarterly,State,Texas,TX,1994,4,110.39,109.93
+traditional,purchase-only,quarterly,State,Texas,TX,1995,4,112.68,112.27
+traditional,purchase-only,quarterly,State,Texas,TX,1996,4,114.57,114.22
+traditional,purchase-only,quarterly,State,Texas,TX,1997,4,117.99,117.68
+traditional,purchase-only,quarterly,State,Texas,TX,1998,4,125.1,124.81
+traditional,purchase-only,quarterly,State,Texas,TX,1999,4,133.31,133.03
+traditional,purchase-only,quarterly,State,Texas,TX,2000,4,142.35,142.06
+traditional,purchase-only,quarterly,State,Texas,TX,2001,4,147.92,147.64
+traditional,purchase-only,quarterly,State,Texas,TX,2002,4,152.86,152.59
+traditional,purchase-only,quarterly,State,Texas,TX,2003,4,156.04,155.79
+traditional,purchase-only,quarterly,State,Texas,TX,2004,4,161.63,161.39
+traditional,purchase-only,quarterly,State,Texas,TX,2005,4,171.35,171.13
+traditional,purchase-only,quarterly,State,Texas,TX,2006,4,182.11,181.93
+traditional,purchase-only,quarterly,State,Texas,TX,2007,4,188.56,188.47
+traditional,purchase-only,quarterly,State,Texas,TX,2008,4,186.0,186.01
+traditional,purchase-only,quarterly,State,Texas,TX,2009,4,187.15,187.31
+traditional,purchase-only,quarterly,State,Texas,TX,2010,4,182.73,182.96
+traditional,purchase-only,quarterly,State,Texas,TX,2011,4,184.69,185.02
+traditional,purchase-only,quarterly,State,Texas,TX,2012,4,195.49,195.91
+traditional,purchase-only,quarterly,State,Texas,TX,2013,4,208.88,209.44
+traditional,purchase-only,quarterly,State,Texas,TX,2014,4,222.18,222.91
+traditional,purchase-only,quarterly,State,Texas,TX,2015,4,236.62,237.53
+traditional,purchase-only,quarterly,State,Texas,TX,2016,4,252.39,253.44
+traditional,purchase-only,quarterly,State,Texas,TX,2017,4,270.33,271.44
+traditional,purchase-only,quarterly,State,Texas,TX,2018,4,284.12,285.26
+traditional,purchase-only,quarterly,State,Texas,TX,2019,4,297.92,299.12
+traditional,purchase-only,quarterly,State,Texas,TX,2020,4,325.05,326.47
+traditional,purchase-only,quarterly,State,Texas,TX,2021,4,387.77,389.59
+traditional,purchase-only,quarterly,State,Texas,TX,2022,4,423.7,425.77
+traditional,purchase-only,quarterly,State,Texas,TX,2023,4,434.85,436.89
+traditional,purchase-only,quarterly,State,Texas,TX,2024,4,445.59,447.55
+traditional,purchase-only,quarterly,State,Utah,UT,1991,4,103.96,103.5
+traditional,purchase-only,quarterly,State,Utah,UT,1992,4,114.22,113.76
+traditional,purchase-only,quarterly,State,Utah,UT,1993,4,133.19,132.72
+traditional,purchase-only,quarterly,State,Utah,UT,1994,4,151.34,150.91
+traditional,purchase-only,quarterly,State,Utah,UT,1995,4,163.47,163.12
+traditional,purchase-only,quarterly,State,Utah,UT,1996,4,174.73,174.44
+traditional,purchase-only,quarterly,State,Utah,UT,1997,4,179.24,178.99
+traditional,purchase-only,quarterly,State,Utah,UT,1998,4,185.99,185.77
+traditional,purchase-only,quarterly,State,Utah,UT,1999,4,189.81,189.59
+traditional,purchase-only,quarterly,State,Utah,UT,2000,4,193.12,192.93
+traditional,purchase-only,quarterly,State,Utah,UT,2001,4,196.64,196.4
+traditional,purchase-only,quarterly,State,Utah,UT,2002,4,201.64,201.33
+traditional,purchase-only,quarterly,State,Utah,UT,2003,4,205.95,205.52
+traditional,purchase-only,quarterly,State,Utah,UT,2004,4,222.5,222.01
+traditional,purchase-only,quarterly,State,Utah,UT,2005,4,253.8,253.31
+traditional,purchase-only,quarterly,State,Utah,UT,2006,4,296.62,296.11
+traditional,purchase-only,quarterly,State,Utah,UT,2007,4,313.08,312.44
+traditional,purchase-only,quarterly,State,Utah,UT,2008,4,284.36,283.84
+traditional,purchase-only,quarterly,State,Utah,UT,2009,4,262.31,261.91
+traditional,purchase-only,quarterly,State,Utah,UT,2010,4,247.95,247.79
+traditional,purchase-only,quarterly,State,Utah,UT,2011,4,236.61,236.69
+traditional,purchase-only,quarterly,State,Utah,UT,2012,4,260.51,261.06
+traditional,purchase-only,quarterly,State,Utah,UT,2013,4,281.25,282.18
+traditional,purchase-only,quarterly,State,Utah,UT,2014,4,292.73,293.95
+traditional,purchase-only,quarterly,State,Utah,UT,2015,4,314.7,315.98
+traditional,purchase-only,quarterly,State,Utah,UT,2016,4,339.53,340.97
+traditional,purchase-only,quarterly,State,Utah,UT,2017,4,372.96,374.53
+traditional,purchase-only,quarterly,State,Utah,UT,2018,4,408.12,410.27
+traditional,purchase-only,quarterly,State,Utah,UT,2019,4,440.46,443.27
+traditional,purchase-only,quarterly,State,Utah,UT,2020,4,509.06,513.13
+traditional,purchase-only,quarterly,State,Utah,UT,2021,4,646.6,652.37
+traditional,purchase-only,quarterly,State,Utah,UT,2022,4,668.66,675.18
+traditional,purchase-only,quarterly,State,Utah,UT,2023,4,680.9,687.3
+traditional,purchase-only,quarterly,State,Utah,UT,2024,4,716.11,722.53
+traditional,purchase-only,quarterly,State,Virginia,VA,1991,4,100.55,99.93
+traditional,purchase-only,quarterly,State,Virginia,VA,1992,4,101.71,101.12
+traditional,purchase-only,quarterly,State,Virginia,VA,1993,4,102.48,101.96
+traditional,purchase-only,quarterly,State,Virginia,VA,1994,4,105.13,104.7
+traditional,purchase-only,quarterly,State,Virginia,VA,1995,4,105.41,105.06
+traditional,purchase-only,quarterly,State,Virginia,VA,1996,4,107.47,107.19
+traditional,purchase-only,quarterly,State,Virginia,VA,1997,4,110.1,109.9
+traditional,purchase-only,quarterly,State,Virginia,VA,1998,4,114.12,114.01
+traditional,purchase-only,quarterly,State,Virginia,VA,1999,4,121.01,120.99
+traditional,purchase-only,quarterly,State,Virginia,VA,2000,4,130.23,130.26
+traditional,purchase-only,quarterly,State,Virginia,VA,2001,4,142.36,142.45
+traditional,purchase-only,quarterly,State,Virginia,VA,2002,4,156.29,156.36
+traditional,purchase-only,quarterly,State,Virginia,VA,2003,4,175.2,175.25
+traditional,purchase-only,quarterly,State,Virginia,VA,2004,4,202.18,202.3
+traditional,purchase-only,quarterly,State,Virginia,VA,2005,4,232.49,232.88
+traditional,purchase-only,quarterly,State,Virginia,VA,2006,4,244.79,245.48
+traditional,purchase-only,quarterly,State,Virginia,VA,2007,4,236.22,237.0
+traditional,purchase-only,quarterly,State,Virginia,VA,2008,4,209.33,210.07
+traditional,purchase-only,quarterly,State,Virginia,VA,2009,4,213.59,214.34
+traditional,purchase-only,quarterly,State,Virginia,VA,2010,4,203.68,204.4
+traditional,purchase-only,quarterly,State,Virginia,VA,2011,4,199.54,200.22
+traditional,purchase-only,quarterly,State,Virginia,VA,2012,4,207.84,208.66
+traditional,purchase-only,quarterly,State,Virginia,VA,2013,4,212.51,213.43
+traditional,purchase-only,quarterly,State,Virginia,VA,2014,4,219.48,220.51
+traditional,purchase-only,quarterly,State,Virginia,VA,2015,4,223.83,224.83
+traditional,purchase-only,quarterly,State,Virginia,VA,2016,4,232.09,233.16
+traditional,purchase-only,quarterly,State,Virginia,VA,2017,4,241.75,242.79
+traditional,purchase-only,quarterly,State,Virginia,VA,2018,4,252.41,253.64
+traditional,purchase-only,quarterly,State,Virginia,VA,2019,4,265.82,267.25
+traditional,purchase-only,quarterly,State,Virginia,VA,2020,4,293.86,295.69
+traditional,purchase-only,quarterly,State,Virginia,VA,2021,4,333.76,336.07
+traditional,purchase-only,quarterly,State,Virginia,VA,2022,4,362.25,365.09
+traditional,purchase-only,quarterly,State,Virginia,VA,2023,4,389.01,392.24
+traditional,purchase-only,quarterly,State,Virginia,VA,2024,4,411.77,415.21
+traditional,purchase-only,quarterly,State,Vermont,VT,1991,4,98.36,98.65
+traditional,purchase-only,quarterly,State,Vermont,VT,1992,4,100.91,101.24
+traditional,purchase-only,quarterly,State,Vermont,VT,1993,4,101.41,101.75
+traditional,purchase-only,quarterly,State,Vermont,VT,1994,4,99.39,99.73
+traditional,purchase-only,quarterly,State,Vermont,VT,1995,4,98.61,98.89
+traditional,purchase-only,quarterly,State,Vermont,VT,1996,4,102.27,102.52
+traditional,purchase-only,quarterly,State,Vermont,VT,1997,4,103.2,103.34
+traditional,purchase-only,quarterly,State,Vermont,VT,1998,4,108.72,108.8
+traditional,purchase-only,quarterly,State,Vermont,VT,1999,4,115.52,115.53
+traditional,purchase-only,quarterly,State,Vermont,VT,2000,4,126.24,126.32
+traditional,purchase-only,quarterly,State,Vermont,VT,2001,4,137.36,137.42
+traditional,purchase-only,quarterly,State,Vermont,VT,2002,4,148.88,148.9
+traditional,purchase-only,quarterly,State,Vermont,VT,2003,4,163.63,163.49
+traditional,purchase-only,quarterly,State,Vermont,VT,2004,4,188.31,188.15
+traditional,purchase-only,quarterly,State,Vermont,VT,2005,4,207.98,207.81
+traditional,purchase-only,quarterly,State,Vermont,VT,2006,4,216.57,216.73
+traditional,purchase-only,quarterly,State,Vermont,VT,2007,4,214.1,214.6
+traditional,purchase-only,quarterly,State,Vermont,VT,2008,4,210.46,211.57
+traditional,purchase-only,quarterly,State,Vermont,VT,2009,4,203.76,205.34
+traditional,purchase-only,quarterly,State,Vermont,VT,2010,4,200.51,202.64
+traditional,purchase-only,quarterly,State,Vermont,VT,2011,4,203.7,206.35
+traditional,purchase-only,quarterly,State,Vermont,VT,2012,4,198.52,201.64
+traditional,purchase-only,quarterly,State,Vermont,VT,2013,4,202.93,206.61
+traditional,purchase-only,quarterly,State,Vermont,VT,2014,4,197.74,201.43
+traditional,purchase-only,quarterly,State,Vermont,VT,2015,4,204.48,208.12
+traditional,purchase-only,quarterly,State,Vermont,VT,2016,4,209.16,212.34
+traditional,purchase-only,quarterly,State,Vermont,VT,2017,4,225.3,228.1
+traditional,purchase-only,quarterly,State,Vermont,VT,2018,4,231.52,233.66
+traditional,purchase-only,quarterly,State,Vermont,VT,2019,4,241.18,243.08
+traditional,purchase-only,quarterly,State,Vermont,VT,2020,4,271.0,273.27
+traditional,purchase-only,quarterly,State,Vermont,VT,2021,4,323.34,326.51
+traditional,purchase-only,quarterly,State,Vermont,VT,2022,4,351.61,355.59
+traditional,purchase-only,quarterly,State,Vermont,VT,2023,4,387.4,392.23
+traditional,purchase-only,quarterly,State,Vermont,VT,2024,4,420.11,425.69
+traditional,purchase-only,quarterly,State,Washington,WA,1991,4,103.69,102.88
+traditional,purchase-only,quarterly,State,Washington,WA,1992,4,108.23,107.47
+traditional,purchase-only,quarterly,State,Washington,WA,1993,4,113.86,113.18
+traditional,purchase-only,quarterly,State,Washington,WA,1994,4,118.87,118.32
+traditional,purchase-only,quarterly,State,Washington,WA,1995,4,120.61,120.21
+traditional,purchase-only,quarterly,State,Washington,WA,1996,4,123.1,122.82
+traditional,purchase-only,quarterly,State,Washington,WA,1997,4,129.99,129.78
+traditional,purchase-only,quarterly,State,Washington,WA,1998,4,139.29,139.05
+traditional,purchase-only,quarterly,State,Washington,WA,1999,4,147.44,147.19
+traditional,purchase-only,quarterly,State,Washington,WA,2000,4,154.17,153.91
+traditional,purchase-only,quarterly,State,Washington,WA,2001,4,161.5,161.26
+traditional,purchase-only,quarterly,State,Washington,WA,2002,4,170.81,170.5
+traditional,purchase-only,quarterly,State,Washington,WA,2003,4,183.27,182.91
+traditional,purchase-only,quarterly,State,Washington,WA,2004,4,206.57,206.19
+traditional,purchase-only,quarterly,State,Washington,WA,2005,4,241.5,241.19
+traditional,purchase-only,quarterly,State,Washington,WA,2006,4,268.88,268.57
+traditional,purchase-only,quarterly,State,Washington,WA,2007,4,275.07,274.62
+traditional,purchase-only,quarterly,State,Washington,WA,2008,4,248.38,247.84
+traditional,purchase-only,quarterly,State,Washington,WA,2009,4,233.8,233.24
+traditional,purchase-only,quarterly,State,Washington,WA,2010,4,218.26,217.8
+traditional,purchase-only,quarterly,State,Washington,WA,2011,4,200.98,200.72
+traditional,purchase-only,quarterly,State,Washington,WA,2012,4,216.34,216.4
+traditional,purchase-only,quarterly,State,Washington,WA,2013,4,230.01,230.54
+traditional,purchase-only,quarterly,State,Washington,WA,2014,4,244.64,245.62
+traditional,purchase-only,quarterly,State,Washington,WA,2015,4,271.25,272.66
+traditional,purchase-only,quarterly,State,Washington,WA,2016,4,298.33,300.28
+traditional,purchase-only,quarterly,State,Washington,WA,2017,4,330.99,333.54
+traditional,purchase-only,quarterly,State,Washington,WA,2018,4,356.69,359.67
+traditional,purchase-only,quarterly,State,Washington,WA,2019,4,384.48,387.94
+traditional,purchase-only,quarterly,State,Washington,WA,2020,4,438.51,443.04
+traditional,purchase-only,quarterly,State,Washington,WA,2021,4,523.96,530.48
+traditional,purchase-only,quarterly,State,Washington,WA,2022,4,541.67,548.94
+traditional,purchase-only,quarterly,State,Washington,WA,2023,4,558.99,566.36
+traditional,purchase-only,quarterly,State,Washington,WA,2024,4,578.85,585.99
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1991,4,104.0,103.79
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1992,4,111.72,111.48
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1993,4,120.82,120.55
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1994,4,128.02,127.76
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1995,4,133.46,133.19
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1996,4,137.53,137.28
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1997,4,142.08,141.84
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1998,4,149.18,148.94
+traditional,purchase-only,quarterly,State,Wisconsin,WI,1999,4,157.3,156.99
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2000,4,166.5,166.11
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2001,4,176.05,175.61
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2002,4,186.13,185.65
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2003,4,198.29,197.84
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2004,4,211.77,211.38
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2005,4,221.81,221.54
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2006,4,224.84,224.58
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2007,4,222.54,222.2
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2008,4,212.9,212.41
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2009,4,207.11,206.56
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2010,4,202.56,202.02
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2011,4,193.97,193.61
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2012,4,194.02,193.92
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2013,4,202.25,202.49
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2014,4,208.22,208.75
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2015,4,215.91,216.71
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2016,4,227.89,228.96
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2017,4,239.8,241.12
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2018,4,256.83,258.51
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2019,4,273.41,275.48
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2020,4,302.23,304.91
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2021,4,342.97,346.33
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2022,4,375.47,379.43
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2023,4,410.1,414.47
+traditional,purchase-only,quarterly,State,Wisconsin,WI,2024,4,436.84,441.46
+traditional,purchase-only,quarterly,State,West Virginia,WV,1991,4,102.63,103.27
+traditional,purchase-only,quarterly,State,West Virginia,WV,1992,4,106.14,106.84
+traditional,purchase-only,quarterly,State,West Virginia,WV,1993,4,112.43,113.3
+traditional,purchase-only,quarterly,State,West Virginia,WV,1994,4,120.23,121.23
+traditional,purchase-only,quarterly,State,West Virginia,WV,1995,4,125.31,126.35
+traditional,purchase-only,quarterly,State,West Virginia,WV,1996,4,125.39,126.28
+traditional,purchase-only,quarterly,State,West Virginia,WV,1997,4,129.65,130.42
+traditional,purchase-only,quarterly,State,West Virginia,WV,1998,4,132.73,133.4
+traditional,purchase-only,quarterly,State,West Virginia,WV,1999,4,135.77,136.4
+traditional,purchase-only,quarterly,State,West Virginia,WV,2000,4,137.1,137.67
+traditional,purchase-only,quarterly,State,West Virginia,WV,2001,4,141.97,142.45
+traditional,purchase-only,quarterly,State,West Virginia,WV,2002,4,148.77,149.16
+traditional,purchase-only,quarterly,State,West Virginia,WV,2003,4,154.49,154.84
+traditional,purchase-only,quarterly,State,West Virginia,WV,2004,4,169.23,169.63
+traditional,purchase-only,quarterly,State,West Virginia,WV,2005,4,180.54,180.87
+traditional,purchase-only,quarterly,State,West Virginia,WV,2006,4,184.63,184.8
+traditional,purchase-only,quarterly,State,West Virginia,WV,2007,4,189.69,189.53
+traditional,purchase-only,quarterly,State,West Virginia,WV,2008,4,187.18,186.74
+traditional,purchase-only,quarterly,State,West Virginia,WV,2009,4,183.73,182.89
+traditional,purchase-only,quarterly,State,West Virginia,WV,2010,4,187.16,186.14
+traditional,purchase-only,quarterly,State,West Virginia,WV,2011,4,182.33,181.41
+traditional,purchase-only,quarterly,State,West Virginia,WV,2012,4,190.94,190.19
+traditional,purchase-only,quarterly,State,West Virginia,WV,2013,4,192.28,191.56
+traditional,purchase-only,quarterly,State,West Virginia,WV,2014,4,192.86,192.13
+traditional,purchase-only,quarterly,State,West Virginia,WV,2015,4,204.49,203.72
+traditional,purchase-only,quarterly,State,West Virginia,WV,2016,4,204.52,203.6
+traditional,purchase-only,quarterly,State,West Virginia,WV,2017,4,205.81,204.69
+traditional,purchase-only,quarterly,State,West Virginia,WV,2018,4,206.34,205.24
+traditional,purchase-only,quarterly,State,West Virginia,WV,2019,4,221.71,220.92
+traditional,purchase-only,quarterly,State,West Virginia,WV,2020,4,235.09,234.45
+traditional,purchase-only,quarterly,State,West Virginia,WV,2021,4,263.93,263.11
+traditional,purchase-only,quarterly,State,West Virginia,WV,2022,4,279.13,277.87
+traditional,purchase-only,quarterly,State,West Virginia,WV,2023,4,313.89,311.94
+traditional,purchase-only,quarterly,State,West Virginia,WV,2024,4,329.0,326.24
+traditional,purchase-only,quarterly,State,Wyoming,WY,1991,4,105.43,104.67
+traditional,purchase-only,quarterly,State,Wyoming,WY,1992,4,112.79,111.98
+traditional,purchase-only,quarterly,State,Wyoming,WY,1993,4,122.92,122.05
+traditional,purchase-only,quarterly,State,Wyoming,WY,1994,4,134.84,134.01
+traditional,purchase-only,quarterly,State,Wyoming,WY,1995,4,143.08,142.41
+traditional,purchase-only,quarterly,State,Wyoming,WY,1996,4,145.77,145.33
+traditional,purchase-only,quarterly,State,Wyoming,WY,1997,4,149.74,149.44
+traditional,purchase-only,quarterly,State,Wyoming,WY,1998,4,154.28,154.01
+traditional,purchase-only,quarterly,State,Wyoming,WY,1999,4,160.58,160.19
+traditional,purchase-only,quarterly,State,Wyoming,WY,2000,4,169.5,168.92
+traditional,purchase-only,quarterly,State,Wyoming,WY,2001,4,179.49,178.74
+traditional,purchase-only,quarterly,State,Wyoming,WY,2002,4,192.92,192.11
+traditional,purchase-only,quarterly,State,Wyoming,WY,2003,4,208.35,207.49
+traditional,purchase-only,quarterly,State,Wyoming,WY,2004,4,228.23,227.47
+traditional,purchase-only,quarterly,State,Wyoming,WY,2005,4,258.03,257.26
+traditional,purchase-only,quarterly,State,Wyoming,WY,2006,4,292.02,291.4
+traditional,purchase-only,quarterly,State,Wyoming,WY,2007,4,302.78,302.26
+traditional,purchase-only,quarterly,State,Wyoming,WY,2008,4,299.36,299.3
+traditional,purchase-only,quarterly,State,Wyoming,WY,2009,4,281.01,281.19
+traditional,purchase-only,quarterly,State,Wyoming,WY,2010,4,276.45,276.9
+traditional,purchase-only,quarterly,State,Wyoming,WY,2011,4,276.17,276.48
+traditional,purchase-only,quarterly,State,Wyoming,WY,2012,4,290.67,290.87
+traditional,purchase-only,quarterly,State,Wyoming,WY,2013,4,294.34,294.12
+traditional,purchase-only,quarterly,State,Wyoming,WY,2014,4,310.89,310.39
+traditional,purchase-only,quarterly,State,Wyoming,WY,2015,4,317.1,316.24
+traditional,purchase-only,quarterly,State,Wyoming,WY,2016,4,318.47,317.5
+traditional,purchase-only,quarterly,State,Wyoming,WY,2017,4,327.55,326.38
+traditional,purchase-only,quarterly,State,Wyoming,WY,2018,4,339.1,337.78
+traditional,purchase-only,quarterly,State,Wyoming,WY,2019,4,359.81,358.33
+traditional,purchase-only,quarterly,State,Wyoming,WY,2020,4,389.26,387.86
+traditional,purchase-only,quarterly,State,Wyoming,WY,2021,4,454.52,453.29
+traditional,purchase-only,quarterly,State,Wyoming,WY,2022,4,489.88,488.92
+traditional,purchase-only,quarterly,State,Wyoming,WY,2023,4,501.26,500.65
+traditional,purchase-only,quarterly,State,Wyoming,WY,2024,4,545.14,544.69
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1991,4,101.45,101.05
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1992,4,104.16,103.77
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1993,4,107.0,106.65
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1994,4,109.97,109.67
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1995,4,112.92,112.68
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1996,4,115.97,115.78
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1997,4,119.75,119.58
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1998,4,126.55,126.39
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,1999,4,134.27,134.1
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2000,4,143.59,143.4
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2001,4,153.26,153.03
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2002,4,164.93,164.67
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2003,4,177.77,177.51
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2004,4,195.75,195.52
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2005,4,215.73,215.58
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2006,4,221.71,221.62
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2007,4,215.55,215.47
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2008,4,193.72,193.58
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2009,4,188.91,188.74
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2010,4,181.32,181.17
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2011,4,176.52,176.48
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2012,4,184.84,184.94
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2013,4,197.22,197.48
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2014,4,206.03,206.4
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2015,4,217.09,217.53
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2016,4,229.77,230.25
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2017,4,243.95,244.43
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2018,4,257.32,257.84
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2019,4,271.33,271.95
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2020,4,301.34,302.24
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2021,4,353.81,355.09
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2022,4,381.31,382.88
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2023,4,405.77,407.43
+traditional,purchase-only,quarterly,USA or Census Division,United States,USA,2024,4,424.6,426.21
