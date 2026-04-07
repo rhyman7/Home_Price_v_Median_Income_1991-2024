@@ -5,7 +5,6 @@ The purpose of this project is to compare the cost of purchasing a home to the m
 ## Installation
 
 1. Clone the repository
-
 ```bash
   git clone https://github.com/rhyman7/Home_Price_v_Median_Income_1991-2024.git
 ```
@@ -13,27 +12,19 @@ The purpose of this project is to compare the cost of purchasing a home to the m
 ```bash
 cd [your_project_folder]
 ```
-3. Create Virtual Environment & Install Dependencies.
-```bash
-# Windows
-python -m venv venv
-# Mac/Linux
-python3 -m venv venv
-
-# Windows
-venv/Scripts/activate
-# Mac/Linux
-source venv/bin/activate  
-
-pip install -r requirements.txt
-```
+3. Create Virtual Environment, Activate, and Install Dependencies.
+| **Command** |           **Linux/Mac**               |         **Windows/GitBash**          |
+| ----------  | ------------------------------------- | ------------------------------------ |
+|  Create     |    `python3 -m venv venv`             |   `python -m venv venv`              |
+|  Activate   |    `source venv/bin/activate`         |   `source venv/Scripts/activate`     |
+|  Install    |    `pip install -r requirements.txt`  |   `pip install -r requirements.txt`  |
 4. Open ```dataset_cleaning_hpi_income.ipynb``` for understanding of how data was cleaned and median income dataset was reshaped.
 5. Open ```sql_and_visuals.ipynb``` for all plots and SQL database.
 6. When finished with repo deactivate virtual environment, 
-```bash
-# For Mac/Linux and Windows
-deactivate
-```  
+| **Command** |           **Linux/Mac**               |         **Windows/GitBash**          |
+| ----------  | ------------------------------------- | ------------------------------------ |
+|  Deactivate |    `deactivate`                       |   `deactivate`                       |
+
 ## Data Sources
 Federal Housing Finance Agency: https://www.fhfa.gov/data/hpi/datasets?tab=master-hpi-data(historical
 
@@ -51,8 +42,6 @@ The project is organized into data preparation, SQL querying, and visualization 
 **VS Code**
 
 **Git & GitHub**
-
-
 
 ## Data Dictionary
 Variables from hpi_clean.csv:
