@@ -71,7 +71,7 @@ Variables from hpi_clean.csv:
 - hpi_type       (str)           Type of housing transaction  
 - hpi_flavor     (str)           Methodologies to measure price change
 - frequency      (str)           How often the data is collected       
-- level          (str)                 
+- level          (str)           Level of agency resposible for data      
 - place_name     (str)           State, city, or division data was collected for   
 - place_id       (str)           Unique identifier for each area data is collected on     
 - yr             (int64)         Year data was collected
