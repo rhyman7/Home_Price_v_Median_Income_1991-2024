@@ -21,7 +21,7 @@ python -m venv venv
 python3 -m venv venv
 
 # Windows
-venv\Scripts\activate
+venv/Scripts/activate
 # Mac/Linux
 source venv/bin/activate  
 
