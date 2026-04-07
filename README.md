@@ -13,6 +13,7 @@ The purpose of this project is to compare the cost of purchasing a home to the m
 cd [your_project_folder]
 ```
 3. Create Virtual Environment, Activate, and Install Dependencies.
+
 Windows
 ```bash
 python -m venv venv
