@@ -35,30 +35,30 @@ deactivate
 ```
 ## Data Dictionary
 ### Variables from hpi_clean.csv:
-*hpi_type       (str)           Type of housing transaction  
-*hpi_flavor     (str)           Methodologies to measure price change
-*frequency      (str)           How often the data is collected       
-*level          (str)                 
-*place_name     (str)           State, city, or division data was collected for   
-*place_id       (str)           Unique identifier for each area data is collected on     
-*yr             (int64)         Year data was collected
-*period         (int64)         Can refer to a year or month depending on the frequency data was collected
-*index_nsa      (float64)       Number representing the HPI index for the period data was collected. Not seasonally adjusted
-*index_sa       (float64)       Number representing the seasonally adjusted HPI
+- hpi_type       (str)           Type of housing transaction  
+- hpi_flavor     (str)           Methodologies to measure price change
+- frequency      (str)           How often the data is collected       
+- level          (str)                 
+- place_name     (str)           State, city, or division data was collected for   
+- place_id       (str)           Unique identifier for each area data is collected on     
+- yr             (int64)         Year data was collected
+- period         (int64)         Can refer to a year or month depending on the frequency data was collected
+- index_nsa      (float64)       Number representing the HPI index for the period data was collected. Not seasonally adjusted
+- index_sa       (float64)       Number representing the seasonally adjusted HPI
 
 ### Variables for median_income_clean_w_change.csv
-*place_name     (str)           State data was collected on
-*yr             (int64)         Year data was collected
-*median_income  (str)           Median income for the reported year
-*change         (float64)       Percent change from the baseline of 1991
+- place_name     (str)           State data was collected on
+- yr             (int64)         Year data was collected
+- median_income  (str)           Median income for the reported year
+- change         (float64)       Percent change from the baseline of 1991
 
 
 ## Technologies Used
-*Python (Numpy, Matplotlib, Pandas, Plotly)
-*Jupyter Notebook
-*SQLite
-*VS Code
-*Git & GitHub
+- **Python** (Numpy, Matplotlib, Pandas, Plotly)
+- **Jupyter Notebook**
+- **SQLite**
+- **VS Code**
+- **Git & GitHub**
 
 ## Data Sources
 Federal Housing Finance Agency: https://www.fhfa.gov/data/hpi/datasets?tab=master-hpi-data(historical
