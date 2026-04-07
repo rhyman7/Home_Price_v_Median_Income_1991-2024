@@ -13,17 +13,39 @@ The purpose of this project is to compare the cost of purchasing a home to the m
 cd [your_project_folder]
 ```
 3. Create Virtual Environment, Activate, and Install Dependencies.
-| **Command** |           **Linux/Mac**               |         **Windows/GitBash**          |
-| ----------  | ------------------------------------- | ------------------------------------ |
-|  Create     |    `python3 -m venv venv`             |   `python -m venv venv`              |
-|  Activate   |    `source venv/bin/activate`         |   `source venv/Scripts/activate`     |
-|  Install    |    `pip install -r requirements.txt`  |   `pip install -r requirements.txt`  |
+Windows
+```bash
+python -m venv venv
+```
+```bash
+source venv/Scripts/activate
+```
+```bash
+pip install -r requirements.txt
+```
+
+Linux/Mac
+```bash
+python3 -m venv venv
+```
+```bash
+source venv/bin/activate
+```
+```bash
+pip install -r requirements.txt
+```
 4. Open ```dataset_cleaning_hpi_income.ipynb``` for understanding of how data was cleaned and median income dataset was reshaped.
 5. Open ```sql_and_visuals.ipynb``` for all plots and SQL database.
-6. When finished with repo deactivate virtual environment, 
-| **Command** |           **Linux/Mac**               |         **Windows/GitBash**          |
-| ----------  | ------------------------------------- | ------------------------------------ |
-|  Deactivate |    `deactivate`                       |   `deactivate`                       |
+6. When finished with repo deactivate virtual environment.
+Windows
+```bash
+deactivate
+```
+
+Linux/Mac
+```bash
+deactivate
+```
 
 ## Data Sources
 Federal Housing Finance Agency: https://www.fhfa.gov/data/hpi/datasets?tab=master-hpi-data(historical
