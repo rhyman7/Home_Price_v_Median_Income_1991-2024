@@ -56,14 +56,14 @@ United States Census Bureau: https://www.census.gov/data/tables/time-series/demo
 The project is organized into data preparation, SQL querying, and visualization layers. Cleaned datasets are joined using state and year, enabling calculation of affordability metrics such as the gap between housing prices and income growth. Modular plotting functions allow flexible analysis by state and year, while a choropleth map provides geographic insights.
 ## Technology Used
 
-### Python – core programming language for analysis and development
-### Python Libraries - Pandas, Numpy, Matplotlib, Plotly
-### Jupyter Notebook – used for exploratory analysis and workflow documentation
-### SQLite – simple relational database for local data storage and retrieval
-### VS Code – development environment for coding and file organization
-### Git & GitHub – used for version control and collaborative project sharing
-### Markdown – used for writing notes, documentation, and explanations
-### AI - Chat GPT was used for the ai_assist_animations.ipynb notebook
+*Python* – core programming language for analysis and development\
+*Python Libraries* - Pandas, Numpy, Matplotlib, Plotly\
+*Jupyter Notebook* – used for exploratory analysis and workflow documentation\
+*SQLite* – simple relational database for local data storage and retrieval\
+*VS Code* – development environment for coding and file organization\
+*Git & GitHub* – used for version control and collaborative project sharing\
+*Markdown* – used for writing notes, documentation, and explanations\
+*AI* - Chat GPT was used for the ai_assist_animations.ipynb notebook\
 
 ## Data Dictionary
 Variables from hpi_clean.csv:
