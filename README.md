@@ -56,15 +56,14 @@ United States Census Bureau: https://www.census.gov/data/tables/time-series/demo
 The project is organized into data preparation, SQL querying, and visualization layers. Cleaned datasets are joined using state and year, enabling calculation of affordability metrics such as the gap between housing prices and income growth. Modular plotting functions allow flexible analysis by state and year, while a choropleth map provides geographic insights.
 ## Technology Used
 
-**Python** (Numpy, Matplotlib, Pandas, Plotly)
-
-**Jupyter Notebook**
-
-**SQLite**
-
-**VS Code**
-
-**Git & GitHub**
+### Python – core programming language for analysis and development
+### Python Libraries - Pandas, Numpy, Matplotlib, Plotly
+### Jupyter Notebook – used for exploratory analysis and workflow documentation
+### SQLite – simple relational database for local data storage and retrieval
+### VS Code – development environment for coding and file organization
+### Git & GitHub – used for version control and collaborative project sharing
+### Markdown – used for writing notes, documentation, and explanations
+### AI - Chat GPT was used for the ai_assist_animations.ipynb notebook
 
 ## Data Dictionary
 Variables from hpi_clean.csv:
@@ -84,6 +83,7 @@ Variables for median_income_clean_w_change.csv
 - yr             (int64)         Year data was collected
 - median_income  (str)           Median income for the reported year
 - change         (float64)       Percent change from the baseline of 1991
+
 ## Findings
 The data shows that by 2024 the Housing Price Index (HPI) is outpacing median income in all 50 states, indicating a widespread decline in housing affordability. While HPI had already begun to exceed income growth prior to 2020, the gap widened significantly during the COVID-19 period and reached a peak around 2022.
 
@@ -103,4 +103,4 @@ While the four states with the highest gap are:
 - Colorado
 - Oregon
 
-This analysis highlights a significant shift in housing affordability across the United States over the period 1991–2024. Since 2021 no state's median income has outpaced HPI and we are curretly living in the only period from the dataset where that is the case. The American Dream is becoming just that, a dream, for more and more people. 
+This analysis highlights a significant shift in housing affordability across the United States over the period 1991–2024. Since 2021, no state's median income has outpaced HPI and we are currently living in the only period from the dataset where that is the case. The American Dream is becoming just that, a dream, for more and more people. 
