@@ -63,7 +63,7 @@ The project is organized into data preparation, SQL querying, and visualization 
 *VS Code* – development environment for coding and file organization\
 *Git & GitHub* – used for version control and collaborative project sharing\
 *Markdown* – used for writing notes, documentation, and explanations\
-*AI* - Chat GPT was used for the ai_assist_animations.ipynb notebook\
+*AI* - Chat GPT was used for the ai_assist_animations.ipynb notebook
 
 ## Data Dictionary
 Variables from hpi_clean.csv:
