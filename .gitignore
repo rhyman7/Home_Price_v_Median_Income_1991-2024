@@ -1,0 +1,10 @@
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+# Official Census downloads are reproducible with scripts/download_*.py.
+data/raw/acs/
+data/raw/acs_archive/
+data/raw/early_metro_income/

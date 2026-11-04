@@ -1,0 +1,28 @@
+{
+  "project_areas": 100,
+  "exact_boundary_matches": 27,
+  "early_observations": 129,
+  "early_year_counts": {
+    "1999": 27,
+    "2000": 15,
+    "2001": 15,
+    "2002": 24,
+    "2003": 24,
+    "2004": 24
+  },
+  "early_dollar_status_counts": {
+    "available_current_dollars": 99,
+    "available_constant_dollars": 30
+  },
+  "all_status_counts": {
+    "not_sourced_1991_1998": 800,
+    "no_verified_same_boundary": 438,
+    "available_current_dollars": 1751,
+    "no_standard_acs_1year_2020": 100,
+    "available_constant_dollars": 30,
+    "no_exact_geography_match_in_loaded_sources": 248,
+    "not_published_in_loaded_early_acs": 33
+  },
+  "source_observations": 654,
+  "note": "Supplemental data only; not spliced into the CPS 1991 growth series or the ACS home-value ratio panel."
+}

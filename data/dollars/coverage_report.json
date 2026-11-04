@@ -1,0 +1,156 @@
+{
+  "target_hpi_sha256": "bd8cb59779d10316da314465a87e4b3e2bb45a50dbc854358fb89e1a4a62274c",
+  "target_years": [
+    1991,
+    2024
+  ],
+  "acs_years_loaded": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "panel_rows": 5168,
+  "source_rows": 11302,
+  "status_counts": {
+    "before_acs_1year": 2128,
+    "available": 2640,
+    "no_standard_acs_1year_2020": 152,
+    "no_exact_geography_match_in_loaded_sources": 248
+  },
+  "paired_counts_by_year": {
+    "1991": {},
+    "1992": {},
+    "1993": {},
+    "1994": {},
+    "1995": {},
+    "1996": {},
+    "1997": {},
+    "1998": {},
+    "1999": {},
+    "2000": {},
+    "2001": {},
+    "2002": {},
+    "2003": {},
+    "2004": {},
+    "2005": {
+      "metro": 81,
+      "national": 1,
+      "state": 51
+    },
+    "2006": {
+      "metro": 81,
+      "national": 1,
+      "state": 51
+    },
+    "2007": {
+      "metro": 81,
+      "national": 1,
+      "state": 51
+    },
+    "2008": {
+      "metro": 81,
+      "national": 1,
+      "state": 51
+    },
+    "2009": {
+      "metro": 81,
+      "national": 1,
+      "state": 51
+    },
+    "2010": {
+      "metro": 82,
+      "national": 1,
+      "state": 51
+    },
+    "2011": {
+      "metro": 82,
+      "national": 1,
+      "state": 51
+    },
+    "2012": {
+      "metro": 82,
+      "national": 1,
+      "state": 51
+    },
+    "2013": {
+      "metro": 88,
+      "national": 1,
+      "state": 51
+    },
+    "2014": {
+      "metro": 88,
+      "national": 1,
+      "state": 51
+    },
+    "2015": {
+      "metro": 88,
+      "national": 1,
+      "state": 51
+    },
+    "2016": {
+      "metro": 88,
+      "national": 1,
+      "state": 51
+    },
+    "2017": {
+      "metro": 88,
+      "national": 1,
+      "state": 51
+    },
+    "2018": {
+      "metro": 88,
+      "national": 1,
+      "state": 51
+    },
+    "2019": {
+      "metro": 91,
+      "national": 1,
+      "state": 51
+    },
+    "2020": {},
+    "2021": {
+      "metro": 91,
+      "national": 1,
+      "state": 51
+    },
+    "2022": {
+      "metro": 91,
+      "national": 1,
+      "state": 51
+    },
+    "2023": {
+      "metro": 100,
+      "national": 1,
+      "state": 51
+    },
+    "2024": {
+      "metro": 100,
+      "national": 1,
+      "state": 51
+    }
+  },
+  "geography_rule": "Exact summary level and code; historical boundaries not harmonized. Ratios pair ACS values and income from the same release/geography, not CPS income.",
+  "source": "Census ACS 1-year B25077 and B19013; dollar home values are owner-reported estimates, not sale prices.",
+  "notes": [
+    "1991\u20132004 are not backfilled.",
+    "2020 standard ACS 1-year estimates unavailable.",
+    "No income growth since 1991 is calculated from ACS.",
+    "Margins of error are retained; no ratio uncertainty estimate is supplied."
+  ]
+}

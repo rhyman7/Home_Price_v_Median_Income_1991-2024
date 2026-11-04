@@ -1,0 +1,30 @@
+{
+  "source": {
+    "source_url": "https://www.fhfa.gov/hpi/download/monthly/hpi_master.csv",
+    "retrieved_utc": "2026-11-04T01:07:08.144656+00:00",
+    "sha256": "5b60e562c74211475d6bad8f59d24c74316f31f956d922f6e9d97065393b0feb"
+  },
+  "income_source": "Census h08.csv nominal section, existing repository snapshot",
+  "income_sha256": "40985e5ce0a0e6c725f1ad0fd2b7e86a52680d4e659e0c88577bd18b95a3171f",
+  "methodology": "Traditional purchase-only quarterly SA HPI; arithmetic mean of four quarters; annual 1991 mean = 100; nominal household income; no imputation.",
+  "years": [
+    1991,
+    2024
+  ],
+  "hpi_rows": 5168,
+  "income_rows": 1768,
+  "comparison_rows": 5168,
+  "areas_by_level": {
+    "national": 1,
+    "state": 51,
+    "metro": 100
+  },
+  "incomplete_hpi_years": 0,
+  "comparison_rows_without_income": 3400,
+  "source_comparison": {
+    "matched_quarters": 20672,
+    "median_official_minus_local_nsa": 99.92999999999999,
+    "median_official_minus_local_sa": -0.07999999999998408,
+    "interpretation": "Local NSA was reduced by exactly 100 in Git commit 1a21d3b (all 131540 rows checked against initial commit 5a5dfa5). Official snapshot also contains later source revisions; use official indices directly, not repaired local values."
+  }
+}
