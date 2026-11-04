@@ -1,16 +1,16 @@
 # Home Price v Median Income 1991 - 2024
 
-## Interactive website and household income
+## Interactive website: one U.S. income line
 
-[Open the live explorer](https://rhyman7.github.io/Home_Price_v_Median_Income_1991-2024/). The Household income tab includes 129 verified observations for 1999–2004 across 27 metro areas/divisions, plus the available later ACS records. Each estimate retains its source and dollar year; 30 early estimates use constant dollars and are plotted separately. Metro selection opens this income view automatically. National/state growth and paired ACS home-value ratios remain separate.
+[Open the live explorer](https://rhyman7.github.io/Home_Price_v_Median_Income_1991-2024/). Every location now uses the **same U.S. median household income for all 34 years, 1991–2024**. Only housing changes with the selected location. Income dollar values and growth are identical across United States, states, and metro areas.
 
-Data and audit: `data/historical_metro_income/metro_income_1991_2024.csv`, `data/historical_metro_income/boundary_audit.csv`, and `docs/historical_metro_income_sources.md`. Rebuild with `python scripts/download_early_metro_income.py`, then `python build_historical_metro_income.py`, `python build_explorer.py`, `python scripts/build_findings.py`, and `python scripts/build_github_pages.py`.
+Growth gaps compare location housing growth with national income growth. Ratios compare location ACS home value with same-year national income. These are national-benchmark comparisons, not local-income or same-geography ACS affordability measures. CSV downloads and labels use this same definition.
 
-## Dollar housing values and metro income
+Rebuild with `python build_explorer.py` and `python scripts/build_github_pages.py`. See `docs/national_income_comparison.md` for methodology. The site no longer displays local income; the underlying local-income datasets and earlier analytical reports below remain preserved as historical research and use their original methodology.
 
-Dollar data is now sourced in **`data/dollars/acs_dollar_comparison.csv`** (also available in SQLite). It pairs ACS median owner-occupied home value and median household income for the same year and geography, with a value-to-income ratio and margins of error. National/state coverage is 2005–2019 and 2021–2024; metro coverage depends on geographic identifiers. Missing years remain blank. These are home values, not sale prices.
+## Archived research and original local-income comparisons
 
-Run `python build_dollar_data.py` to rebuild from saved sources. Read **`docs/dollar_sources_report.md`** for coverage, metro-boundary limitations, source definitions, and verification. Open **`reports/annual_growth_explorer.html`** for the offline explorer: select a national, state, or metro/division area and year, then choose dollar values, value-to-income ratio, or growth since 1991. The explorer includes a full annual table and area CSV download. Run `python build_explorer.py` after rebuilding either data source. ACS income is kept separate from the historical CPS-based income in the growth analysis.
+The sections below describe the original analytical datasets, not the revised live site's national-income comparison. Local ACS pairs remain in `data/dollars/acs_dollar_comparison.csv`; historical metro income and its audits remain in `data/historical_metro_income/` and `docs/historical_metro_income_sources.md`. They are not used as income inputs by the current explorer.
 
 ## Verified annual rebuild (November 3, 2026)
 

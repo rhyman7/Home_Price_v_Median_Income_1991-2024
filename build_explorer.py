@@ -36,10 +36,33 @@ def assemble(annual,dollars,history=None):
   output.append(r)
  return output
 
+def national_income_view(records):
+ """Publish one U.S. income benchmark for every location; discard local income fields."""
+ national={r['year']:r for r in records if r['geography_level']=='national'}
+ output=[]
+ for original in records:
+  year=original['year'];n=national.get(year)
+  if n is None or n.get('median_household_income') is None or n.get('income_growth_pct') is None:
+   raise ValueError(f'Missing national income for {year}')
+  value=n['median_household_income']
+  if not math.isfinite(value) or value<=0:raise ValueError('Invalid national income')
+  r={k:v for k,v in original.items() if k not in ('median_household_income_acs','income_moe','income_status','home_value_to_income_ratio','pair_status')}
+  r.update(income_amount=value,median_household_income=value,income_dollar_year=year,
+   income_series='U.S. median household income',income_source_area='United States',
+   income_coverage='national_benchmark_all_locations',income_boundary='United States',
+   income_source_url='https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html',
+   income_growth_pct=n['income_growth_pct'],
+   growth_gap_pp=None if r.get('hpi_growth_pct') is None else r['hpi_growth_pct']-n['income_growth_pct'],
+   home_value_to_national_income_ratio=None if r.get('median_home_value_acs') is None else r['median_home_value_acs']/value)
+  output.append(r)
+ return output
+
 def build():
  def read(path):
   with path.open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
- records=assemble(read(ROOT/'data/annual/comparison_annual.csv'),read(ROOT/'data/dollars/acs_dollar_comparison.csv'),read(ROOT/'data/historical_metro_income/metro_income_1991_2024.csv'))
+ records=national_income_view(assemble(read(ROOT/'data/annual/comparison_annual.csv'),read(ROOT/'data/dollars/acs_dollar_comparison.csv')))
+ with (ROOT/'reports/national_income_comparison.csv').open('w',encoding='utf-8',newline='') as f:
+  writer=csv.DictWriter(f,fieldnames=list(records[0]));writer.writeheader();writer.writerows(records)
  payload=json.dumps(records,ensure_ascii=True,allow_nan=False,separators=(',',':')).replace('<','\\u003c')
  html=(ROOT/'web/explorer.html').read_text(encoding='utf-8').replace('/*__PLOTLY__*/',get_plotlyjs()).replace('/*__MODEL__*/',(ROOT/'web/explorer_model.js').read_text(encoding='utf-8')).replace('/*__DATA__*/',payload)
  out=ROOT/'reports/annual_growth_explorer.html';out.parent.mkdir(exist_ok=True);out.write_text(html,encoding='utf-8')
