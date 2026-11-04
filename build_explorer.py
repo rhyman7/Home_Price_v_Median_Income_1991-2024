@@ -1,4 +1,4 @@
-"""Build the offline explorer from the two verified annual data panels."""
+"""Build the offline explorer from the verified housing, paired ACS, and income panels."""
 import csv,json,math
 from pathlib import Path
 from plotly.offline import get_plotlyjs
