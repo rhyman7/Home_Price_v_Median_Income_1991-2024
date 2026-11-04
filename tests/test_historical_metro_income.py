@@ -1,4 +1,5 @@
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -41,13 +42,14 @@ class HistoricalIncomeTests(unittest.TestCase):
         self.assertEqual(result[0]['series'], 'ACS testing program')
 
     def test_tucson_two_year_profile_uses_first_year_estimate_not_difference(self):
-        result = history.tucson_record(2000)
+        with patch.object(history, 'RAW', Path(__file__).parent / 'fixtures/early_income'):
+            result = history.tucson_record(2000)
         self.assertEqual(result['median_household_income'], 36675)
         self.assertEqual(result['year'], 2000)
         self.assertEqual(result['dollar_year'], 2002)
 
     def test_single_year_source_value_and_confidence_interval(self):
-        row = history.single_record(history.RAW / '2004_380_7320.xls', 2004, '380:7320')
+        row = history.single_record(Path(__file__).parent / 'fixtures/early_income/2004_380_7320.xls', 2004, '380:7320')
         self.assertEqual(row['median_household_income'], 51012)
         self.assertEqual((row['lower_bound'], row['upper_bound']), (49708, 52316))
 
